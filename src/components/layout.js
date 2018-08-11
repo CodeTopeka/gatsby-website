@@ -29,10 +29,12 @@
 import React from "react"
 import { cx, css } from "react-emotion"
 import { StaticQuery, Link, graphql } from "gatsby"
-
+import Helmet from "react-helmet"
 import { rhythm } from "../utils/typography"
+
 import logo from "../img/square_logo_small.png"
 import public_domain_small from "../img/public_domain_small.png"
+import favicon from "../img/favicon.ico"
 
 const navItem = css`
   margin-right: 15px;
@@ -84,16 +86,27 @@ export default ({ children }) => (
     `
 }
     render={data => (
+      
       <div
         className={css`
           
         `}
       >
+        <Helmet defaultTitle={`Holm School`} titleTemplate={`%s | Holm School`}>
+          <meta name="twitter:site" content="@HolmSchool" />
+          <meta name="og:type" content="website" />
+          <meta name="og:site_name" content="Holm" />
+          <html lang="en" />
+          <link rel="icon" 
+          type="image/png" 
+          href={favicon}/>
+        </Helmet>
         <div className={css`
           display: flex;
           flex-direction: row;
           justify-content: center;
-          margin: 5px 5px 0px 20px;
+          margin: 5px 5px -20px 20px;
+
         `}>
           <Link to={`/`} className={css`
             text-decoration: none;
