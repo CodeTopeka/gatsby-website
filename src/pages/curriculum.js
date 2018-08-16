@@ -7,7 +7,7 @@ export default ({ data }) => (
   <Layout>
     <div className={css`
         margin: 0 auto;
-        max-width: 800px;
+        max-width: 1000px;
 
     `}>
         <h1 id="trajectories">Holm School Curriculum (alpha version)</h1>
@@ -16,7 +16,7 @@ export default ({ data }) => (
     </div>
     <div className={css`
         margin: 0 auto;
-        max-width: 800px;
+        max-width: 1000px;
         background-color: #b5e6e6;
     `}>
         
