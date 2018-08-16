@@ -67,6 +67,7 @@ import Layout from "../components/layout"
 import vilhelm_hammershoi_1 from "../img/2020903_KMS3696.jpeg"
 import vilhelm_hammershoi_2 from "../img/2020903_KMS6657.jpeg"
 import redhats from "../img/s-l1600.jpg"
+import destroyed from "../utils/i-could-tell-you-but-then-you-would-have-to-be-destroyed-by-me-trevor-paglen.pdf"
 
 
 export default ({ data }) => {
@@ -90,7 +91,7 @@ export default ({ data }) => {
               vertical-align: top;
               margin: 0 auto;
             `}>
-              Holm School
+              Welcome to Holm School!
             </span>
           </div>
           
@@ -105,20 +106,20 @@ export default ({ data }) => {
 
           `}/>
           <p>
-            I would like to think of Holm School as a similar operation. As someone who has gone to college to study computer science, I have defected from my allegiance to college (and the idea of paying for it) to bring you an enemy aircraft (my experience in a college computer science department) so that you can simulate dogfighting against it so that you can win in combat versus the enemy. The enemy is student debt. By training computer science students to fight against exploitative tuition fees, I increase their chances to win the war versus debt. I will teach you everything I know about student debt to ensure that you will succeed against financial crisis. The aircraft that you will be flying is a bird called "Open Educational Resource." OER are open-source licensed books that are available for free on the internet and sport a <a href="https://en.wikipedia.org/wiki/Copyleft">CC BY-SA or less</a> license. By cataloguing a college-level equivalent of a computer science curriculum here on Holm School, I am offering you the ability to succeed in computer science in a way that won't cause you financial obligations. There are many other planes to choose from, such as MOOCs and Open Courseware as well as cheap online learning sites, but OER is the flagship plane in our squadron. Treat her well.
+            I would like to think of Holm School as a similar operation. As someone who has gone to college to study computer science, I have defected from my allegiance to college (and the idea of paying for it) to bring you an enemy aircraft (my experience in a college computer science department) so that you can simulate dogfighting against it so that you can win in combat versus the enemy. The enemy is student debt. By training computer science students to fight against exploitative tuition fees, I will increase their chances to win the war versus debt. I will teach you everything I know about student debt. The birds that you will be flying are called "Open Educational Resources." OER are open-source licensed books that are available for free on the internet and sport a <a href="https://en.wikipedia.org/wiki/Copyleft">CC BY-SA</a> or less license. By cataloguing a college-level equivalent of a computer science curriculum here on Holm School, I am offering you the ability to succeed in computer science in a way that won't cause you financial obligations. There are many other planes to choose from, such as MOOCs and Open Courseware as well as cheap online learning sites, but OER is the flagship plane in our squadron. Treat her well.
           </p>
           <p>
-            Your goal is to learn how to succeed in computer science using OER. It is meta-education: education about education. By knowing how to study computer science for free by increasing your "OER literacy," you ensure that you will be able to keep costs as low as humanly possible to obtain a programming job. Being self-taught is a kooky concept, but I think we all can agree that a squadron that flies and maintains enemy planes is a kooky concept too. Yet the payoffs are worth it: you will succeed in learning computer science with fewer losses of life or craft, keeping yourself debt-free. Learning computer science for free is possible because so many open source authors have turned against the concept of requiring tuition for knowledge or books. They are the defector pilots that turn over enemy aircraft for American research, and they are heroes. Let's celebrate their choice against the threat of student debt and practice as much dogfighting as we can using OER. If you are skilled in learning how to learn computer science for free, your "lifelong learning" obligations as a programmer will become as cheap as possible.
+            Your goal is to learn how to succeed in computer science using OER. It is meta-education: education about education. By knowing how to study computer science for free by increasing your "OER literacy," you ensure that you will be able to keep costs as low as humanly possible to obtain a programming job or be a lifelong learner. Being self-taught is a kooky concept, but I think we all can agree that a squadron that flies and maintains enemy planes out of Area 51 is a kooky concept too. Yet the payoffs are worth it: you will succeed in learning computer science with fewer losses of life or craft, keeping yourself debt-free. Learning computer science for free is possible because so many open source authors have turned against the concept of requiring tuition for knowledge or books. They are the defector pilots that turn over enemy aircraft for American research, and they are heroes. Let's celebrate their choice against the threat of student debt and practice as much dogfighting as we can using OER. If you are skilled in learning how to learn computer science for free, your "lifelong learning" obligations as a programmer will become as cheap as possible.
           </p>
           <p>
-            Many open source programmers and authors have the idea that computer science education can and should be free. It is no coincidence that the text at the bottom of the Red Hats patch says "More With Less". By being frugal during our studies of computer science, we will greatly improve our life quality by avoiding student debt while obtaining a good education. We will accomplish more with less, thanks to OER. Welcome to the squadron, pilot.
+            It is no coincidence that the text at the bottom of the Red Hats patch says "More With Less". By being frugal during our studies of computer science, we will greatly improve our life quality by avoiding student debt while obtaining a good education. We will accomplish more with less, thanks to OER. Welcome to the squadron, pilot.
           </p>
           <p>
-            You can buy a <a href="https://www.ebay.com/sch/i.html?&_nkw=red+hats+air+force+patch&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=red+hats+patch">Red Hats patch off eBay</a> if you want to adorn your backpack or purse with a reminder of what we're trying to accomplish at Holm School. When people ask what the patch means, you can reply, "I'm a computer science student that uses Open Educational Resources." 
+            You can buy a <a href="https://www.ebay.com/sch/i.html?&_nkw=red+hats+air+force+patch&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=red+hats+patch">Red Hats patch off eBay</a> if you want to adorn your backpack or purse with a reminder of what we're trying to accomplish at Holm School. When people ask what the patch means, you can reply, "I'm a computer science student that uses Open Educational Resources." In other words, a test pilot in a covert flight squadron.
             
           </p>
           <p>
-            [<a href="https://hatoffoil.files.wordpress.com/2016/04/i-could-tell-you-but-then-you-would-have-to-be-destroyed-by-me-trevor-paglen.pdf">Source.</a>]
+            [<a href={destroyed}>Reference.</a>]
           </p>
           
           

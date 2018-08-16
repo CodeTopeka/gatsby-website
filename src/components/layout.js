@@ -105,7 +105,7 @@ export default ({ children }) => (
           display: flex;
           flex-direction: row;
           justify-content: center;
-          margin: 5px 5px 0px 20px;
+          margin: 5px 5px 0px 10px;
 
         `}>
           <Link to={`/`} className={css`
@@ -122,10 +122,10 @@ export default ({ children }) => (
               }
             `}>
               <img src={logo} className={css`
-                width: 36px;
-                height: 36px;
-                margin-top: 8px;
-                margin-right: 8px;
+                width: 50px;
+                height: 50px;
+                margin-top: 4px;
+                margin-left: 0px;
                 margin-bottom: 0px;
                 margin-right: 27px;
 
@@ -259,7 +259,7 @@ export default ({ children }) => (
           <Link to={'/'} className={css`text-decoration: none;`}>
             <span className={css`
                 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-                font-size: 1.5em;
+                font-size: 1.0em;
                 color: #84d1a6;
                 transition: 150ms;
                 transition-timing-function: ease-in-out;
@@ -275,10 +275,10 @@ export default ({ children }) => (
 
 
               `}>
-                Holm.School
+                Holm.School 2018
             </span>
           </Link>
-          <span>2018</span>
+          
         </div>
       </div>
     )}

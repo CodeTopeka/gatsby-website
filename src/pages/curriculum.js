@@ -3,14 +3,19 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import { css } from "emotion"
 
+import birgerSandzen from "../img/11105836_small.jpg"
+
 export default ({ data }) => (
   <Layout>
+    <div className={css``}>
+        <img src={birgerSandzen} width="100%" alt="Painting 'Lidköpings hamn med Kinnekulle i bakgrunden' by Birger Sandzen, 1893"/>
+    </div>
     <div className={css`
         margin: 0 auto;
         max-width: 1000px;
-
+        padding: 0 10px;
     `}>
-        <h1 id="trajectories">Holm School Curriculum (alpha version)</h1>
+        <h1 id="trajectories">Holm School Curriculum</h1>
         <a href="https://github.com/HolmSchool/curriculum">Edit/Contribute via github</a>
         <p>&nbsp;</p>
     </div>
@@ -18,6 +23,10 @@ export default ({ data }) => (
         margin: 0 auto;
         max-width: 1000px;
         background-color: #b5e6e6;
+        padding-top: 10px;
+        h2 {
+            color: purple;
+        }
     `}>
         
         <ul>

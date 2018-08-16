@@ -10,6 +10,7 @@ export default ({ data }) => (
     <div className={css`
       margin: 0 auto;
       max-width: 800px;
+      padding: 0 10px;
     `}>
     <h1>Blog Posts</h1>
     <h4>{data.allMarkdownRemark.totalCount} Posts</h4>

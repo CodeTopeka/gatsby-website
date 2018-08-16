@@ -1,9 +1,8 @@
 ---
 date: "2018-08-10"
-title: "Computer Science Open Educational Resources in 2018 and Beyond"
+title: "Computer Science Open Educational Resources in 2018"
 ---
 
-# Computer Science Open Educational Resources in 2018 and Beyond
 
 One of the most pressing questions facing young computer scientists is whether they are going to go into debt studying computer science. College is a wonderful experience but increasingly that experience is being paywalled behind exorbitant tuition fees and housing costs. What used to be accessible and provide a quality life experience is no longer affordable to lower class computer scientists. It is a shame that science is being hidden behind paywalls, in which quality education can only be experienced by going deeply into debt. Fortunately computer science usually has a good return on investment compared to other fields like the liberal arts, in which people go more than a hundred thousand dollars in debt sometime to study for few jobs in the long run. Computer science, however, is an inventor's daydream and many quality products have been invented that address the cost of a computer science education. In fact, I would have to say that at present, there is no reason to go into debt to study computer science. My budget to study computer science is currently $200 a year, and that's as a direct result of the benefit of having a paying computer science job. Let me explain how computer science has solved the dilemma of having to pay for a computer science education.
 
