@@ -47,7 +47,7 @@ export default ({ data }) => (
       </p>
       
       <p>
-        For more information regarding Open Educational Resources and what they are, please read the <a href="https://en.wikipedia.org/wiki/Open_educational_resources">Wikipedia page</a>. 
+        For more information regarding Open Educational Resources and what they are, please read the <a href="https://en.wikipedia.org/wiki/Open_educational_resources">Wikipedia page</a> or read the free epub <a href="https://unglue.it/work/208269/">"Open: The Philosophy and Practices that are Revolutionizing Education and Science"</a>. 
       </p>
       <p>
         Holm School is programmed using <a href="http://gatsbyjs.com">GatsbyJS</a> for a static JAM stack site hosted for free on <a href="http://netlify.com">Netlify</a>.  Thank you to the open source programmers who make that possible. All resources created by Holm School are in the public domain and downloadable at our repo on <a href="http://github.com/HolmSchool">GitHub</a>.

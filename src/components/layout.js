@@ -122,8 +122,8 @@ export default ({ children }) => (
               }
             `}>
               <img src={logo} className={css`
-                width: 50px;
-                height: 50px;
+                width: 42px;
+                height: 42px;
                 margin-top: 4px;
                 margin-left: 0px;
                 margin-bottom: 0px;
@@ -148,14 +148,15 @@ export default ({ children }) => (
                   color: #667c7c;
                 }
                 
-                @media only screen and (min-width: 374px) {
-                  font-size: 1em;
+                @media only screen and (min-width: 1024px) {
+                  font-size: 1.5em;
+                  display: inline;
                   
                 }
 
                 
               `}>
-                Holm School
+                Holm.School
               </span>
               
             </div>
