@@ -5,8 +5,13 @@ import Layout from "../components/layout"
 import { css } from "emotion"
 import { rhythm } from "../utils/typography"
 
+import birger_sandzen from "../img/smoky_river.jpg" 
+
 export default ({ data }) => (
   <Layout>
+    <div className={css``}>
+        <img src={birger_sandzen} width="100%" alt="Painting 'Smoky River, Kansas' by Birger Sandzen, 1926"/>
+    </div>
     <div className={css`
       margin: 0 auto;
       max-width: 800px;

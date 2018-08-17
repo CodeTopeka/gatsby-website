@@ -30,7 +30,7 @@ import React from "react"
 import { cx, css } from "react-emotion"
 import { StaticQuery, Link, graphql } from "gatsby"
 import Helmet from "react-helmet"
-import { rhythm } from "../utils/typography"
+
 
 import logo from "../img/square_logo_small.png"
 import public_domain_small from "../img/public_domain_small.png"
@@ -57,19 +57,6 @@ const svgNav = css`
   &:hover {
     fill: #667c7c !important;
   }
-`
-
-const holmSchool = css`
-font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-font-size: 2em;
-color: #84d1a6;
-transition: 150ms;
-transition-timing-function: ease-in-out;
-vertical-align: top;
-
-&:hover {
-  color: #667c7c;
-}
 `
 
 
@@ -255,7 +242,7 @@ export default ({ children }) => (
         <div className={css`
           margin-top: 10px;
         `}>
-          <a href="https://www.negativland.com/news/wp-content/uploads/text/negativland-two_relationships_essay.pdf"><img src={public_domain_small} className={css`;margin-left: 20px; width:120px;margin-right: 30px;`}/></a>
+          <a href="https://www.negativland.com/news/wp-content/uploads/text/negativland-two_relationships_essay.pdf"><img src={public_domain_small} alt="Public Domain" className={css`;margin-left: 20px; width:120px;margin-right: 30px;`}/></a>
 
           <Link to={'/'} className={css`text-decoration: none;`}>
             <span className={css`

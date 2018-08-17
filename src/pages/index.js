@@ -60,11 +60,10 @@
 
 import React from "react"
 import { css } from "react-emotion"
-import { Link, graphql } from "gatsby"
-import { rhythm } from "../utils/typography"
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
-import vilhelm_hammershoi_1 from "../img/2020903_KMS3696.jpeg"
+import vilhelm_hammershoi_1 from "../img/2020903_KMS3696-smaller.jpeg"
 import vilhelm_hammershoi_2 from "../img/2020903_KMS6657.jpeg"
 import redhats from "../img/s-l1600.jpg"
 import destroyed from "../utils/i-could-tell-you-but-then-you-would-have-to-be-destroyed-by-me-trevor-paglen.pdf"
@@ -115,7 +114,7 @@ export default ({ data }) => {
             It is no coincidence that the text at the bottom of the Red Hats patch says "More With Less". By being frugal during our studies of computer science, we will greatly improve our life quality by avoiding student debt while obtaining a good education. We will accomplish more with less, thanks to OER and open source. Welcome to the squadron, pilot. Do you believe without a costly B.A. you are doomed to failure?
           </p>
           <p>
-            You can buy a <a href="https://www.ebay.com/sch/i.html?&_nkw=red+hats+air+force+patch&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=red+hats+patch">Red Hats patch off eBay</a> if you want to adorn your backpack or purse with a reminder of what we're trying to accomplish at Holm School. When people ask what the patch means, you can reply, "I'm a computer science student that uses Open Educational Resources."
+            You can buy a <a href="https://www.ebay.com/sch/i.html?&_nkw=red+hats+air+force+patch&_sacat=0&LH_TitleDesc=0&_osacat=0&_odkw=red+hats+patch">Red Hats patch off eBay</a> if you want to adorn your backpack or purse with a reminder of what we're trying to accomplish at Holm School. When people ask what the patch means, you can reply, "I'm a computer science student that uses Open Educational Resources."  
             
           </p>
           <p>
