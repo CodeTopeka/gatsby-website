@@ -45,6 +45,11 @@ export default ({ data }) => (
               <li>
                 <h3 id="command-line-introduction">Command Line Introduction</h3>
                 <ul>
+                  <li>Terminal Tutorial - Kyle Burke (OER)
+                    <ul>
+                      <li><a href="https://turing.plymouth.edu/~kgb1013/?resource=terminalTutorial">site</a></li>
+                    </ul>
+                  </li>
                   <li>Introduction to the Command Line - Launch School (OER)
                     <ul>
                       <li><a href="https://launchschool.com/books/command_line">site</a></li>
@@ -76,7 +81,7 @@ export default ({ data }) => (
                       <li><a href="https://leanpub.com/jelinux/read">site</a></li>
                     </ul>
                   </li>
-                  <li>Conquering the Command Line - Mark Bates
+                  <li>Conquering the Command Line - Mark Bates (OER)
                     <ul>
                       <li><a href="http://conqueringthecommandline.com/book">site</a></li>
                     </ul>
