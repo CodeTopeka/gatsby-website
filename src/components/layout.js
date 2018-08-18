@@ -87,6 +87,15 @@ export default ({ children }) => (
           <link rel="icon" 
           type="image/png" 
           href={favicon}/>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123217718-1"></script>
+          <script>
+            let dataLayer = window.dataLayer = window.dataLayer || [];
+            function gtag(){this.dataLayer.push(arguments)}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-123217718-1');
+          </script>
+
         </Helmet>
         <div className={css`
           display: flex;
