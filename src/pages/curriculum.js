@@ -1417,6 +1417,7 @@ export default ({ data }) => (
             <h2 id="first-year-equivalent-of-science-and-mathematics">First Year Equivalent of Science and Mathematics</h2>
           </li>
         </ul>
+
     </div>
   </Layout>
 )
