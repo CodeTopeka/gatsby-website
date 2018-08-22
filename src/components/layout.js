@@ -86,11 +86,13 @@ export default ({ children }) => (
         <Helmet defaultTitle={`Holm School`} titleTemplate={`%s | Holm School`}>
           <meta name="twitter:site" content="@HolmSchool" />
           <meta name="og:type" content="website" />
-          <meta name="og:site_name" content="Holm" />
+          <meta name="og:site_name" content="Holm School" />
           <html lang="en" />
           <link rel="icon" 
           type="image/png" 
           href={favicon}/>
+          
+
         </Helmet>
         <div className={css`
           display: flex;
