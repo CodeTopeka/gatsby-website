@@ -29,18 +29,173 @@ export default ({ data }) => (
         }
     `}>
         
+        <h1 id="index">Index</h1>
         <ul>
           <li>
-            <h2 id="beginning-raspberry-pi">Beginning Raspberry PI</h2>
+            <h3 id="beginning-raspberry-pi"><a href="#beginning-raspberry-pi-1">Beginning Raspberry Pi</a></h3>
+          </li>
+          <li>
+            <h3 id="beginning-programming"><a href="#beginning-programming-1">Beginning Programming</a></h3>
+            <ul>
+              <li>
+                <h4 id="crash-course-computer-science"><a href="#crash-course-computer-science-youtube">Crash Course Computer Science</a></h4>
+              </li>
+              <li>
+                <h4 id="computer-fundamentals"><a href="#computer-fundamentals---tutorialspoint-india-youtube">Computer Fundamentals</a></h4>
+              </li>
+              <li>
+                <h4 id="snap"><a href="#snap-1">Snap!</a></h4>
+              </li>
+              <li>
+                <h4 id="scratch"><a href="#scratch-1">Scratch</a></h4>
+              </li>
+              <li>
+                <h4 id="puredata"><a href="#puredata-1">PureData</a></h4>
+              </li>
+              <li>
+                <h4 id="sonic-pi"><a href="#sonic-pi-1">Sonic Pi</a></h4>
+              </li>
+              <li>
+                <h4 id="processing"><a href="#processing-1">Processing</a></h4>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <h3 id="beginning-languages"><a href="#beginning-languages-1">Beginning Languages</a></h3>
+            <ul>
+              <li>
+                <h4 id="c"><a href="#c-2">C</a></h4>
+              </li>
+              <li>
+                <h4 id="javascript"><a href="#javascript-1">JavaScript</a></h4>
+              </li>
+              <li>
+                <h4 id="python"><a href="#python-1">Python</a></h4>
+              </li>
+              <li>
+                <h4 id="java"><a href="#java-1">Java</a></h4>
+              </li>
+              <li>
+                <h4 id="htmlcss"><a href="#htmlcss-1">HTML/CSS</a></h4>
+              </li>
+              <li>
+                <h4 id="c-1"><a href="#c-3">C++</a></h4>
+              </li>
+              <li>
+                <h4 id="language-agnostic"><a href="#language-agnostic-2">Language Agnostic</a></h4>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <h3 id="computer-architectureorganizationassembly"><a href="#computer-architectureorganizationassembly-1">Computer Architecture/Organization/Assembly</a></h3>
+          </li>
+          <li>
+            <h3 id="discrete-mathematicsstructures"><a href="#discrete-mathematicsstructures-1">Discrete Mathematics/Structures</a></h3>
+          </li>
+          <li>
+            <h3 id="algorithms"><a href="#algorithms-1">Algorithms</a></h3>
+          </li>
+          <li>
+            <h3 id="data-structures"><a href="#data-structures-1">Data Structures</a></h3>
+          </li>
+          <li>
+            <h3 id="databases"><a href="#databases-1">Databases</a></h3>
+          </li>
+          <li>
+            <h3 id="intermediate-programming"><a href="#intermediate-programming-1">Intermediate Programming</a></h3>
+            <ul>
+              <li>
+                <h4 id="nodejs"><a href="#node">Node.js</a></h4>
+              </li>
+              <li>
+                <h4 id="go"><a href="#go-1">Go</a></h4>
+              </li>
+              <li>
+                <h4 id="clojure"><a href="#clojure-1">Clojure</a></h4>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <h3 id="linear-algebra"><a href="#linear-algebra-1">Linear Algebra</a></h3>
+          </li>
+          <li>
+            <h3 id="networks"><a href="#networks-1">Networks</a></h3>
+          </li>
+          <li>
+            <h3 id="operating-systems"><a href="#operating-systems-1">Operating Systems</a></h3>
+          </li>
+          <li>
+            <h3 id="software-designdevelopment"><a href="#software-designdevelopment-1">Software Design/Development</a></h3>
+          </li>
+          <li>
+            <h3 id="programming-languages"><a href="#programming-languages-1">Programming Languages</a></h3>
+          </li>
+          <li>
+            <h3 id="compilers"><a href="#compilers-1">Compilers</a></h3>
+          </li>
+          <li>
+            <h3 id="artificial-intelligence"><a href="#ai">Artificial Intelligence</a></h3>
+          </li>
+          <li>
+            <h3 id="computability"><a href="#computability-1">Computability</a></h3>
+          </li>
+          <li>
+            <h3 id="machine-learning"><a href="#machine-learning-1">Machine Learning</a></h3>
+          </li>
+          <li>
+            <h3 id="software-engineering"><a href="#software-engineering-1">Software Engineering</a></h3>
+          </li>
+          <li>
+            <h3 id="security"><a href="#security-1">Security</a></h3>
+          </li>
+          <li>
+            <h3 id="systems-programming"><a href="#systems-programming-1">Systems Programming</a></h3>
+          </li>
+          <li>
+            <h3 id="web-development"><a href="#web-development-1">Web Development</a></h3>
+            <ul>
+              <li>
+                <h4 id="language-agnostic-1"><a href="#language-agnostic-3">Language Agnostic</a></h4>
+              </li>
+              <li>
+                <h4 id="react"><a href="#react-1">React</a></h4>
+              </li>
+              <li>
+                <h4 id="angular"><a href="#angular-1">Angular</a></h4>
+              </li>
+              <li>
+                <h4 id="vue"><a href="#vue-1">Vue</a></h4>
+              </li>
+              <li>
+                <h4 id="django"><a href="#django-1">Django</a></h4>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <h3 id="mobile-development"><a href="#mobile-development-1">Mobile Development</a></h3>
+          </li>
+          <li>
+            <h3 id="game-development"><a href="#game-development-1">Game Development</a></h3>
+          </li>
+          <li>
+            <h3 id="big-data-analysis"><a href="#big-data-analysis-1">Big Data Analysis</a></h3>
+          </li>
+          <li>
+            <h3 id="graphics"><a href="#graphics-1">Graphics</a></h3>
+          </li>
+        </ul>
+
+        <h1 id="trajectories">Trajectories</h1>
+
+        <ul>
+          <li>
+            <h2 id="beginning-raspberry-pi-1">Beginning Raspberry PI</h2>
             <ul>
               <li>
                 <h3 id="setting-up-your-raspberry-piinstalling-raspbian">Setting Up Your Raspberry Pi/Installing Raspbian</h3>
               </li>
               <li>
                 <h3 id="using-apt-getupdating-systeminstalling-chromium">Using apt-get/updating system/installing chromium</h3>
-              </li>
-              <li>
-                <h3 id="installing-gnome">Installing GNOME</h3>
               </li>
               <li>
                 <h3 id="command-line-introduction">Command Line Introduction</h3>
@@ -111,6 +266,13 @@ export default ({ data }) => (
               </li>
               <li>
                 <h3 id="nanovim">Nano/VIM</h3>
+                <ul>
+                  <li>Unix and Linux Visual Quickstart Guide - Deborah Ray, Eric Ray (Sample Excerpt)
+                    <ul>
+                      <li><a href="http://ptgmedia.pearsoncmg.com/images/9780321997548/samplepages/9780321997548.pdf">pdf</a></li>
+                    </ul>
+                  </li>
+                </ul>
               </li>
               <li>
                 <h3 id="special-note-for-public-library-students">Special Note for Public Library Students</h3>
@@ -121,7 +283,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="beginning-programming">Beginning Programming</h2>
+            <h2 id="beginning-programming-1">Beginning Programming</h2>
             <ul>
               <li>
                 <h3 id="crash-course-computer-science-youtube">Crash Course Computer Science (youtube)</h3>
@@ -130,7 +292,13 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="snap">Snap!</h3>
+                <h3 id="computer-fundamentals---tutorialspoint-india-youtube">Computer Fundamentals - TutorialsPoint India (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=-AP1nNK3bRs&amp;list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp">playlist</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="snap-1">Snap!</h3>
                 <ul>
                   <li>
                     <h4 id="beauty-and-joy-of-computing-mooc">Beauty and Joy of Computing (mooc)</h4>
@@ -142,10 +310,10 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="scratch">Scratch</h3>
+                <h3 id="scratch-1">Scratch</h3>
               </li>
               <li>
-                <h3 id="puredata">PureData</h3>
+                <h3 id="puredata-1">PureData</h3>
                 <ul>
                   <li>PURE DATA - cheetomoskeeto (Youtube)
                     <ul>
@@ -163,7 +331,7 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="sonicpi">SonicPi</h3>
+                <h3 id="sonic-pi-1">Sonic Pi</h3>
                 <ul>
                   <li>Introduction to Sonic Pi - Dave Conservatoire 
             - <a href="https://www.youtube.com/watch?v=4BPKaHV7Q5U&amp;list=PLaitaNxyd8SHvTQjRGnMdKLsARXW7iYyp">playlist</a></li>
@@ -174,7 +342,7 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="processing">Processing</h3>
+                <h3 id="processing-1">Processing</h3>
                 <ul>
                   <li>
                     <h4 id="introduction-to-processing---raspberry-pi-foundation">Introduction to Processing - Raspberry Pi Foundation</h4>
@@ -216,10 +384,10 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="beginning-languages">Beginning Languages</h2>
+            <h2 id="beginning-languages-1">Beginning Languages</h2>
             <ul>
               <li>
-                <h3 id="c">C</h3>
+                <h3 id="c-2">C</h3>
                 <ul>
                   <li>
                     <h4 id="learn-to-code-with-c---the-magpi-essentials-oer">Learn to Code With C - The MagPi Essentials (OER)</h4>
@@ -232,6 +400,12 @@ export default ({ data }) => (
                     <ul>
                       <li><a href="https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x">edx</a></li>
                       <li><a href="http://cs50.net">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="c-online-tutorial---tutorialspoint-india-youtube">C Online Tutorial - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=JOfK95bzwCA&amp;list=PLWPirh4EWFpEK1RbpruFXrwgzcGUjZ4nV">playlist</a></li>
                     </ul>
                   </li>
                   <li>
@@ -267,16 +441,19 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="javascript">JavaScript</h3>
+                <h3 id="javascript-1">JavaScript</h3>
                 <ul>
                   <li>
-                    <h3 id="khan-academy-js-tutorials">Khan Academy JS Tutorials</h3>
+                    <h4 id="khan-academy-js-tutorials">Khan Academy JS Tutorials</h4>
                     <ul>
                       <li><a href="https://www.khanacademy.org/computing/computer-programming/programming">tut1</a> <a href="https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations">tut2</a></li>
                     </ul>
                   </li>
                   <li>
-                    <h4 id="how-to-install-node-to-run-your-scripts-hs-youtube">How to install node to run your scripts (HS youtube)</h4>
+                    <h4 id="javascript---tutorialspoint-india-youtube">JavaScript - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=hquaTFKYOqA&amp;list=PLWPirh4EWFpHDH0hU_G2Wq7GJqpNG9osv">playlist</a></li>
+                    </ul>
                   </li>
                   <li>
                     <h4 id="you-dont-know-js---kyle-simpson-oer">You Don’t Know JS - Kyle Simpson (OER)</h4>
@@ -311,8 +488,14 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="python">Python</h3>
+                <h3 id="python-1">Python</h3>
                 <ul>
+                  <li>
+                    <h4 id="python-online-tutorial---tutorialspoint-india-youtube">Python Online Tutorial - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=y-DH9IphjpA&amp;list=PLWPirh4EWFpEPEtQRXTuvl195x5vXFMXR">playlist</a></li>
+                    </ul>
+                  </li>
                   <li>
                     <h4 id="python-for-everybody---charles-r-severance-oer">Python for Everybody - Charles R. Severance (OER)</h4>
                     <ul>
@@ -360,12 +543,18 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="java">Java</h3>
+                <h3 id="java-1">Java</h3>
                 <ul>
                   <li>
                     <h4 id="java-programming-for-kids---yakov-fain-oer">Java Programming for Kids - Yakov Fain (OER)</h4>
                     <ul>
                       <li><a href="https://yfain.github.io/Java4Kids/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="java---tutorialspoint-india-youtube">Java - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=GtgdHzLvf4Q&amp;list=PLWPirh4EWFpFfTUVBl5KbeXly1sHKSc-Z">playlist</a></li>
                     </ul>
                   </li>
                   <li>
@@ -378,6 +567,12 @@ export default ({ data }) => (
                     <h4 id="introduction-to-programming-using-java---david-j-eck-oer">Introduction to Programming Using Java - David J. Eck (OER)</h4>
                     <ul>
                       <li><a href="http://math.hws.edu/javanotes/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="java---tutorialspoint-india-youtube-1">Java - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li>[playlist](https://www.youtube.com/watch?v=GtgdHzLvf4Q&amp;list=PLWPirh4EWFpFfTUVBl5KbeXly1sHKSc-Z</li>
                     </ul>
                   </li>
                   <li>
@@ -395,12 +590,24 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="htmlcss">HTML/CSS</h3>
+                <h3 id="htmlcss-1">HTML/CSS</h3>
                 <ul>
                   <li>
                     <h3 id="khan-academy-html-tutorials">Khan Academy HTML Tutorials</h3>
                     <ul>
                       <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css">tut1</a> <a href="https://www.khanacademy.org/computing/computer-programming/html-css-js">tut2</a> <a href="https://www.khanacademy.org/computing/computer-programming/html-js-jquery">tut3</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="html---tutorialspoint-india-youtube">HTML - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=NAEHbzXMNpA&amp;list=PLWPirh4EWFpFI-w62QiV62FOVHcXnynon">playlist</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="html5---tutorialspoint-india-youtube">HTML5 - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=ONrws6kmQj0&amp;list=PLWPirh4EWFpH2Pj1lQ4wMfPgdEjiDrTGA">playlist</a></li>
                     </ul>
                   </li>
                   <li>
@@ -445,10 +652,16 @@ export default ({ data }) => (
                       <li><a href="http://diveinto.html5doctor.com/">site</a></li>
                     </ul>
                   </li>
+                  <li>
+                    <h4 id="jquery-online-tutorial---tutorialspoint-india-youtube">JQuery Online Tutorial - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=JMn75rtpiOI&amp;list=PLWPirh4EWFpG4OHd7GiiWs1F8jRfybPU6">playlist</a></li>
+                    </ul>
+                  </li>
                 </ul>
               </li>
               <li>
-                <h3 id="c-1">C++</h3>
+                <h3 id="c-3">C++</h3>
                 <ul>
                   <li>
                     <h4 id="learncppcom">LearnCpp.com</h4>
@@ -469,6 +682,12 @@ export default ({ data }) => (
                     </ul>
                   </li>
                   <li>
+                    <h4 id="c-online-training---tutorialspoint-india-youtube">C++ Online Training - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=EqV9udzkUGQ&amp;list=PLWPirh4EWFpGDG3--IKMLPoYrgfuhaz_t">playlist</a></li>
+                    </ul>
+                  </li>
+                  <li>
                     <h4 id="programming-abstractions-in-c---eric-s-roberts-oer">Programming Abstractions in C++ - Eric S. Roberts (OER)</h4>
                     <ul>
                       <li><a href="http://web.stanford.edu/class/cs106x/">site</a></li>
@@ -484,7 +703,7 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="language-agnostic">Language Agnostic</h3>
+                <h3 id="language-agnostic-2">Language Agnostic</h3>
                 <ul>
                   <li>
                     <h4 id="programming-fundamentals-a-modular-structured-approach---kenneth-leroy-busbee-and-dave-braunschweig-oer">Programming Fundamentals: A Modular Structured Approach - Kenneth Leroy Busbee and Dave Braunschweig (OER)</h4>
@@ -504,6 +723,12 @@ export default ({ data }) => (
                       <li><a href="https://htdp.org/">site</a></li>
                     </ul>
                   </li>
+                  <li>
+                    <h4 id="design-patterns---tutorialspoint-india-youtube">Design Patterns - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=z3SRC2ckJhI&amp;list=PLWPirh4EWFpGeQoTYL5YpzBz8Gjw-sxJb">playlist</a></li>
+                    </ul>
+                  </li>
                 </ul>
               </li>
             </ul>
@@ -520,12 +745,18 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="computer-architectureorganizationassembly">Computer Architecture/Organization/Assembly</h2>
+            <h2 id="computer-architectureorganizationassembly-1">Computer Architecture/Organization/Assembly</h2>
             <ul>
               <li>
                 <h3 id="introduction-to-digital-electronics---neso-academy">Introduction to Digital Electronics - Neso Academy</h3>
                 <ul>
                   <li><a href="https://www.youtube.com/watch?v=M0mx8S05v60&amp;list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm">playlist</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="computer-organization---tutorialspoint-india-youtube">Computer Organization - TutorialsPoint India (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=Iir5Pz3kq0w&amp;list=PLWPirh4EWFpF0FVeBgL75d1RlASn4sGoz">playlist</a></li>
                 </ul>
               </li>
               <li>
@@ -565,7 +796,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="discrete-mathematicsstructures">Discrete Mathematics/Structures</h2>
+            <h2 id="discrete-mathematicsstructures-1">Discrete Mathematics/Structures</h2>
             <ul>
               <li>
                 <h3 id="book-of-proof---richard-hammack-oer">Book of Proof - Richard Hammack (OER)</h3>
@@ -604,6 +835,19 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
+                <h3 id="discrete-math---trevtutor-youtube">Discrete Math - trevtutor (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=tyDKR4FG3Yw&amp;list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz">part1</a></li>
+                  <li><a href="https://www.youtube.com/watch?v=DBugSTeX1zw&amp;list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2">part2</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="graph-theory---sarada-herke-youtube">Graph Theory - Sarada Herke (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=eIb1cz06UwI&amp;list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg">playlist</a></li>
+                </ul>
+              </li>
+              <li>
                 <h3 id="computer-science-70-001---spring-2015---berkeley-ocw">Computer Science 70, 001 - Spring 2015 - Berkeley (OCW)</h3>
                 <ul>
                   <li><a href="https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy">archive</a></li>
@@ -622,15 +866,27 @@ export default ({ data }) => (
                   <li><a href="https://courses.csail.mit.edu/6.042/spring17/mcs.pdf">pdf</a></li>
                 </ul>
               </li>
+              <li>
+                <h3 id="graph-theory---tutorialspoint-youtube">Graph Theory - TutorialsPoint (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=RlHt1ioLOto&amp;index=1&amp;list=PLWPirh4EWFpFdWkNxbHeM7Sn5R3egtKpZ">playlist</a></li>
+                </ul>
+              </li>
             </ul>
           </li>
           <li>
-            <h2 id="algorithms">Algorithms</h2>
+            <h2 id="algorithms-1">Algorithms</h2>
             <ul>
               <li>
                 <h3 id="algorithms-design-and-analysis---stanford-ocw">Algorithms: Design and Analysis - Stanford (OCW)</h3>
                 <ul>
                   <li><a href="https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about">part1</a> <a href="https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about">part2</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="introduction-to-analysis-of-algorithms---tutorialspoint-india-youtube">Introduction to Analysis of Algorithms - TutorialsPoint India (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=0J3C7xiiKE4&amp;list=PLWPirh4EWFpFl2kIaopJOlKH2PULvpRIM">playlist</a></li>
                 </ul>
               </li>
               <li>
@@ -679,7 +935,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="data-structures">Data Structures</h2>
+            <h2 id="data-structures-1">Data Structures</h2>
             <ul>
               <li>
                 <h3 id="notes-on-data-structures-and-programming-techniques---yale-oer">Notes on Data Structures and Programming Techniques - Yale (OER)</h3>
@@ -691,6 +947,12 @@ export default ({ data }) => (
                 <h3 id="open-data-structures---pat-morin-oer">Open Data Structures - Pat Morin (OER)</h3>
                 <ul>
                   <li><a href="http://opendatastructures.org/">site</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="data-structures---tutorialspoint-india-youtube">Data Structures - TutorialsPoint India (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=GzZTjaoRaOk&amp;list=PLWPirh4EWFpG49yASGCmvOwXwVvgnm6Jt">playlist</a></li>
                 </ul>
               </li>
               <li>
@@ -726,7 +988,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="databases">Databases</h2>
+            <h2 id="databases-1">Databases</h2>
             <ul>
               <li>
                 <h3 id="khan-academy-sql-tutorials">Khan Academy SQL Tutorials</h3>
@@ -785,7 +1047,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="intermediate-programming">Intermediate Programming</h2>
+            <h2 id="intermediate-programming-1">Intermediate Programming</h2>
             <ul>
               <li>
                 <h3 id="node">Node</h3>
@@ -815,9 +1077,15 @@ export default ({ data }) => (
                     </ul>
                   </li>
                   <li>
-                    <h4 id="the-little-mongodb-book---skarl-seguin-oer">The Little MongoDB Book - SKarl Seguin (OER)</h4>
+                    <h4 id="the-little-mongodb-book---karl-seguin-oer">The Little MongoDB Book - Karl Seguin (OER)</h4>
                     <ul>
                       <li><a href="https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="expressjs---tutorialspoint-india-youtube">ExpressJS - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=r1yeXZ5_i9c&amp;list=PLWPirh4EWFpGNfj9K0dwb0nJAOXwD9BMg">playlist</a></li>
                     </ul>
                   </li>
                   <li>
@@ -835,19 +1103,16 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="go">Go</h3>
+                <h3 id="go-1">Go</h3>
                 <p>-</p>
               </li>
               <li>
-                <h3 id="clojure">Clojure</h3>
-              </li>
-              <li>
-                <h3 id="django">Django</h3>
+                <h3 id="clojure-1">Clojure</h3>
               </li>
             </ul>
           </li>
           <li>
-            <h2 id="linear-algebra">Linear Algebra</h2>
+            <h2 id="linear-algebra-1">Linear Algebra</h2>
             <ul>
               <li>
                 <h3 id="essence-of-linear-algebra---3blue1brown-youtube">Essence of linear algebra - 3Blue1Brown (youtube)</h3>
@@ -888,12 +1153,18 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="networks">Networks</h2>
+            <h2 id="networks-1">Networks</h2>
             <ul>
               <li>
                 <h3 id="introduction-to-http---launch-school-oer">Introduction to HTTP - Launch School (OER)</h3>
                 <ul>
                   <li><a href="https://launchschool.com/books/http">site</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="introduction-to-computer-networks---tutorialspoint-india-youtube">Introduction to Computer Networks - TutorialsPoint India (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=g8iY36onLeM&amp;list=PLWPirh4EWFpHJrW1D9UB24wsbM3zx7QMx">playlist</a></li>
                 </ul>
               </li>
               <li>
@@ -917,7 +1188,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="operating-systems">Operating Systems</h2>
+            <h2 id="operating-systems-1">Operating Systems</h2>
             <ul>
               <li>
                 <h3 id="operating-systems-three-easy-pieces---remzi-h-arpaci-dusseau-andrea-c-arpaci-dusseau-oer">Operating Systems: Three Easy Pieces - Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau (OER)</h3>
@@ -935,6 +1206,12 @@ export default ({ data }) => (
                 <h3 id="ops-classorg-ocw">ops-class.org (OCW)</h3>
                 <ul>
                   <li><a href="https://www.ops-class.org/">site</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="operating-systems---tutorialspoint-india-youtube">Operating Systems - TutorialsPoint India (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=QTQ8zym8Au0&amp;list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy">playlist</a></li>
                 </ul>
               </li>
               <li>
@@ -969,7 +1246,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="software-designdevelopment">Software Design/Development</h2>
+            <h2 id="software-designdevelopment-1">Software Design/Development</h2>
             <ul>
               <li>
                 <h3 id="software-architecture--design---georgia-tech-mooc">Software Architecture &amp; Design - Georgia Tech (mooc)</h3>
@@ -992,7 +1269,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="programming-languages">Programming Languages</h2>
+            <h2 id="programming-languages-1">Programming Languages</h2>
             <ul>
               <li>
                 <h3 id="principles-of-programming-languages---iit-delhi-ocw">Principles of Programming Languages - IIT Delhi (OCW)</h3>
@@ -1034,7 +1311,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="compilers">Compilers</h2>
+            <h2 id="compilers-1">Compilers</h2>
             <ul>
               <li>
                 <h3 id="compilers---stanford-ocw">Compilers - Stanford (OCW)</h3>
@@ -1053,6 +1330,12 @@ export default ({ data }) => (
                 <h3 id="compiler-building-tutorial---jack-w-crenshaw-oer">Compiler Building Tutorial - Jack W. Crenshaw (OER)</h3>
                 <ul>
                   <li><a href="http://www.stack.nl/~marcov/compiler.pdf">pdf</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="compiler-design---tutorialspoint-india-youtube">Compiler Design - TutorialsPoint India (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=0hU5-aLtaxo&amp;list=PLWPirh4EWFpGa0qAEcNGJo2HSRC5_KMT6">playlist</a></li>
                 </ul>
               </li>
             </ul>
@@ -1094,7 +1377,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="computability">Computability</h2>
+            <h2 id="computability-1">Computability</h2>
             <ul>
               <li>
                 <h3 id="introduction-to-the-theory-of-computation---arsdigita-ocw">Introduction to the Theory of Computation - ArsDigita (OCW)</h3>
@@ -1141,7 +1424,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="machine-learning">Machine Learning</h2>
+            <h2 id="machine-learning-1">Machine Learning</h2>
             <ul>
               <li>
                 <h3 id="machine-learning---stanford-university-mooc">Machine Learning - Stanford University (mooc)</h3>
@@ -1170,7 +1453,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="software-engineering">Software Engineering</h2>
+            <h2 id="software-engineering-1">Software Engineering</h2>
             <ul>
               <li>
                 <h3 id="software-engineering-introduction---the-university-of-british-columbia-mooc">Software Engineering: Introduction - The University of British Columbia (mooc)</h3>
@@ -1185,9 +1468,27 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
+                <h3 id="agile---tutorialspoint-india-youtube">Agile - TutorialsPoint India (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=cWQrJ7DGgXA&amp;list=PLWPirh4EWFpF8LjfSxHPuTnyNhqhe4XDc">playlist</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="scrum---tutorialspoint-india-youtube">Scrum - TutorialsPoint India (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=sNRhSoLeVPw&amp;list=PLWPirh4EWFpFgcSsBrbhjqlbqp4J9sMVQ">playlist</a></li>
+                </ul>
+              </li>
+              <li>
                 <h3 id="cs302-software-engineering---saylor-oer">CS302: SOFTWARE ENGINEERING - Saylor (OER)</h3>
                 <ul>
                   <li><a href="https://learn.saylor.org/course/view.php?id=73">site</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="software-engineering---tutorialspoint-india-youtube">Software Engineering - TutorialsPoint India (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=4b1D1QFEel0&amp;list=PLWPirh4EWFpG2b1L3CL-OAPYcM25jLjXH">playlist</a></li>
                 </ul>
               </li>
               <li>
@@ -1223,7 +1524,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="security">Security</h2>
+            <h2 id="security-1">Security</h2>
             <ul>
               <li>
                 <h3 id="the-cryptoparty-handbook-oer">The Cryptoparty Handbook (OER)</h3>
@@ -1270,7 +1571,7 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="systems-programming">Systems Programming</h2>
+            <h2 id="systems-programming-1">Systems Programming</h2>
             <ul>
               <li>
                 <h3 id="computation-structures---mit-mooc">Computation Structures - MIT (mooc)</h3>
@@ -1293,10 +1594,10 @@ export default ({ data }) => (
             </ul>
           </li>
           <li>
-            <h2 id="web-development">Web Development</h2>
+            <h2 id="web-development-1">Web Development</h2>
             <ul>
               <li>
-                <h3 id="language-agnostic-1">Language Agnostic</h3>
+                <h3 id="language-agnostic-3">Language Agnostic</h3>
                 <ul>
                   <li>
                     <h4 id="the-missing-link-an-introduction-to-web-development-and-programming---michael-mendez-oer">The Missing Link: An Introduction to Web Development and Programming - Michael Mendez (OER)</h4>
@@ -1304,10 +1605,16 @@ export default ({ data }) => (
                       <li><a href="https://textbooks.opensuny.org/the-missing-link-an-introduction-to-web-development-and-programming/">site</a></li>
                     </ul>
                   </li>
+                  <li>
+                    <h4 id="rest-api---tutorialspoint-india-youtube">REST API - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=HeXQ98sogs8&amp;list=PLWPirh4EWFpGRdVZcQCzeTXFBNSTDAdQX">playlist</a></li>
+                    </ul>
+                  </li>
                 </ul>
               </li>
               <li>
-                <h3 id="react">React</h3>
+                <h3 id="react-1">React</h3>
                 <ul>
                   <li>
                     <h4 id="intro-to-react-oer">Intro to React (OER)</h4>
@@ -1346,6 +1653,12 @@ export default ({ data }) => (
                     </ul>
                   </li>
                   <li>
+                    <h4 id="reactjs---tutorialspoint-india-youtube">ReactJS - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=jDdPwSh92mw&amp;list=PLWPirh4EWFpHCGrvE6t5vsYBRS1SuivDm">playlist</a></li>
+                    </ul>
+                  </li>
+                  <li>
                     <h4 id="the-complete-redux-book---ilya-gelman-boris-dinkevich-oer">The Complete Redux Book - Ilya Gelman, Boris Dinkevich (OER)</h4>
                     <ul>
                       <li><a href="https://leanpub.com/redux-book">site</a></li>
@@ -1354,7 +1667,7 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="angular">Angular</h3>
+                <h3 id="angular-1">Angular</h3>
                 <ul>
                   <li>
                     <h4 id="angular-tutorial---angulario-oer">Angular Tutorial - angular.io (OER)</h4>
@@ -1375,6 +1688,12 @@ export default ({ data }) => (
                     </ul>
                   </li>
                   <li>
+                    <h4 id="angular2-online-tutorial---tutorialspoint-india-youtube">Angular2 Online Tutorial - TutorialsPoint India (YouTube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=bJ319HJCUnM&amp;list=PLWPirh4EWFpHr-tUELXPm6iUOgRj-uRsI">playlist</a></li>
+                    </ul>
+                  </li>
+                  <li>
                     <h4 id="angular-5-companion-guide---john-niedzwiecki-ii-oer">Angular 5 Companion Guide - John Niedzwiecki II (OER)</h4>
                     <ul>
                       <li><a href="https://www.packtpub.com/free-ebook/angular-5-companion-guide">site</a></li>
@@ -1383,7 +1702,7 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="vue">Vue</h3>
+                <h3 id="vue-1">Vue</h3>
                 <ul>
                   <li>
                     <h4 id="the-vue-handbook---flavio-copes-oer">The Vue Handbook - Flavio Copes (OER)</h4>
@@ -1393,19 +1712,30 @@ export default ({ data }) => (
                   </li>
                 </ul>
               </li>
+              <li>
+                <h3 id="django-1">Django</h3>
+              </li>
             </ul>
           </li>
           <li>
-            <h2 id="mobile-development">Mobile Development</h2>
+            <h2 id="mobile-development-1">Mobile Development</h2>
           </li>
           <li>
-            <h2 id="game-development">Game Development</h2>
+            <h2 id="game-development-1">Game Development</h2>
           </li>
           <li>
-            <h2 id="big-data-analysis">Big Data Analysis</h2>
+            <h2 id="big-data-analysis-1">Big Data Analysis</h2>
           </li>
           <li>
-            <h2 id="graphics">Graphics</h2>
+            <h2 id="graphics-1">Graphics</h2>
+            <ul>
+              <li>
+                <h3 id="introduction-to-computer-graphics-basics---tutorialspoint-india-youtube">Introduction to Computer Graphics Basics - TutorialsPoint India (YouTube)</h3>
+                <ul>
+                  <li><a href="https://www.youtube.com/watch?v=U9NrXOBXA1I&amp;list=PLWPirh4EWFpHukXICQrDcmjZUa2WlLMAb">playlist</a></li>
+                </ul>
+              </li>
+            </ul>
           </li>
           <li>
             <h2 id="liberal-arts-break-5">Liberal Arts Break</h2>
@@ -1422,6 +1752,7 @@ export default ({ data }) => (
             <h2 id="first-year-equivalent-of-science-and-mathematics">First Year Equivalent of Science and Mathematics</h2>
           </li>
         </ul>
+
 
     </div>
   </Layout>

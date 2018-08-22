@@ -59,6 +59,10 @@ const svgNav = css`
   }
 `
 
+const current = css`
+  text-decoration: underline;
+`
+
 
 export default ({ children }) => (
   <StaticQuery
@@ -87,15 +91,6 @@ export default ({ children }) => (
           <link rel="icon" 
           type="image/png" 
           href={favicon}/>
-          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123217718-1"></script>
-          <script>
-            let dataLayer = window.dataLayer = window.dataLayer || [];
-            function gtag(){this.dataLayer.push(arguments)}
-            gtag('js', new Date());
-
-            gtag('config', 'UA-123217718-1');
-          </script>
-
         </Helmet>
         <div className={css`
           display: flex;
@@ -181,6 +176,7 @@ export default ({ children }) => (
             </Link>
             <Link
               to={`/curriculum/`}
+              activeClassName={cx(current)}
               className={cx(css`
                 
               `, navItem)}
@@ -189,6 +185,7 @@ export default ({ children }) => (
             </Link>
             <Link
               to={`/about/`}
+              activeClassName={cx(current)}
               className={cx(css`
                 
               `, navItem)}
@@ -197,6 +194,7 @@ export default ({ children }) => (
             </Link>
             <Link
               to={`/blog/`}
+              activeClassName={cx(current)}
               className={cx(css`
 
               `, navItem)}
