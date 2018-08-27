@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
-  "description": "Gatsby hello world starter",
-  "license": "MIT",
+  "name": "holm-school-site",
+  "description": "Holm.School Website",
+  "license": "Pubic Domain",
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
