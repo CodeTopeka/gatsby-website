@@ -1,5 +1,5 @@
 ---
-date: "2018-08-10"
+date: "2018-08-27"
 title: "Important Knowledge is in Books"
 ---
 

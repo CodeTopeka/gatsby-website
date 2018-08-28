@@ -256,7 +256,7 @@ export default ({ children }) => (
 
 
               `}>
-                Holm.School 2018
+                Holm.School:2018
             </span>
           </Link>
           
