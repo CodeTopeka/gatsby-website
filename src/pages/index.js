@@ -124,7 +124,6 @@ export default ({ data }) => {
             text-align: center;
             margin: 0 auto;
           `}>
-            <iframe width="560" title="Negativland - I Still Haven't Found What I'm Looking For (1991 a cappella mix)" height="315" src="https://www.youtube-nocookie.com/embed/xqse3vYcnaU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           </div>
           
           
