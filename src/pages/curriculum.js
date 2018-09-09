@@ -299,22 +299,50 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="snap-1">Snap!</h3>
+                <h3 id="snap-1"><a href="https://snap.berkeley.edu/">Snap!</a></h3>
                 <ul>
                   <li>
                     <h4 id="beauty-and-joy-of-computing-mooc">Beauty and Joy of Computing (mooc)</h4>
                     <ul>
                       <li>edx (<a href="https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0">first half</a>) (<a href="https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0">second half</a>)</li>
                       <li><a href="https://bjc.edc.org/bjc-r/course/bjc4nyc.html">tutorial</a></li>
+                      <li><a href="https://www.youtube.com/playlist?list=PLA4F0F0CA4A3EE7F4">playlist</a></li>
+                      <li><a href="https://www.youtube.com/playlist?list=PLAE5AE3CD22628741">labs</a></li>
                     </ul>
                   </li>
                 </ul>
               </li>
               <li>
-                <h3 id="scratch-1">Scratch</h3>
+                <h3 id="scratch-1"><a href="https://beta.scratch.mit.edu/">Scratch</a></h3>
+                <ul>
+                  <li>
+                    <h4 id="programming-in-scratch---harvey-mudd-mooc">Programming in Scratch - Harvey Mudd (mooc)</h4>
+                    <ul>
+                      <li><a href="https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1">edx</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="computer-science-concepts-in-scratch---michal-armoni-moti-ben-ari-oer">Computer Science Concepts in Scratch - Michal Armoni, Moti Ben-Ari (oer)</h4>
+                    <ul>
+                      <li><a href="https://stwww1.weizmann.ac.il/scratch/scratch_en/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="scratch-game-programming-for-young-adults---al-sweigart-mooc">Scratch Game Programming for Young Adults - Al Sweigart (mooc)</h4>
+                    <ul>
+                      <li><a href="https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH">udemy</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="scratch-programming-playground---al-sweigart-oer">Scratch Programming Playground - Al Sweigart (oer)</h4>
+                    <ul>
+                      <li><a href="https://inventwithscratch.com/">site</a></li>
+                    </ul>
+                  </li>
+                </ul>
               </li>
               <li>
-                <h3 id="puredata-1">PureData</h3>
+                <h3 id="puredata-1"><a href="https://puredata.info/">PureData</a></h3>
                 <ul>
                   <li>PURE DATA - cheetomoskeeto (Youtube)
                     <ul>
@@ -332,7 +360,7 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="sonic-pi-1">Sonic Pi</h3>
+                <h3 id="sonic-pi-1"><a href="https://sonic-pi.net/">Sonic Pi</a></h3>
                 <ul>
                   <li>Introduction to Sonic Pi - Dave Conservatoire 
             - <a href="https://www.youtube.com/watch?v=4BPKaHV7Q5U&amp;list=PLaitaNxyd8SHvTQjRGnMdKLsARXW7iYyp">playlist</a></li>
@@ -343,12 +371,18 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="processing-1">Processing</h3>
+                <h3 id="processing-1"><a href="https://processing.org/">Processing</a></h3>
                 <ul>
                   <li>
                     <h4 id="introduction-to-processing---raspberry-pi-foundation">Introduction to Processing - Raspberry Pi Foundation</h4>
                     <ul>
                       <li><a href="https://projects.raspberrypi.org/en/projects/introduction-to-processing">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="hour-of-code-and-other-tutorials---happy-coding">Hour of Code and other tutorials - Happy Coding</h4>
+                    <ul>
+                      <li><a href="https://happycoding.io/tutorials/processing/">site</a></li>
                     </ul>
                   </li>
                   <li>
@@ -369,6 +403,18 @@ export default ({ data }) => (
                       <li><a href="https://www.youtube.com/user/shiffman/playlists?shelf_id=6&amp;view=50&amp;sort=dd">playlist</a></li>
                     </ul>
                   </li>
+                  <li>
+                    <h4 id="p5js-tutorials---javascript-html-and-css---shiffman-youtube">p5.js tutorials - JavaScript, HTML, and CSS - shiffman (youtube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/user/shiffman/playlists?view=50&amp;shelf_id=14&amp;sort=dd">playlist</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="coding-challenges-p5js---shiffman-youtube">Coding Challenges (p5.js) - shiffman (youtube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=17WoOqgXsRM&amp;list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH">playlist</a></li>
+                    </ul>
+                  </li>
                 </ul>
               </li>
             </ul>
@@ -380,6 +426,7 @@ export default ({ data }) => (
                 <h3 id="the-iliad---homer-public-domain">The Iliad - Homer (public domain)</h3>
                 <ul>
                   <li><a href="http://www.gutenberg.org/ebooks/2199">site</a></li>
+                  <li><a href="https://www.amazon.com/Iliad-Homer/dp/0226469409">amazon</a></li>
                 </ul>
               </li>
             </ul>
@@ -979,14 +1026,6 @@ export default ({ data }) => (
           </li>
           <li>
             <h2 id="liberal-arts-break-2">Liberal Arts Break</h2>
-            <ul>
-              <li>
-                <h3 id="the-house-of-mirth---edith-wharton-public-domain">The House of Mirth - Edith Wharton (public domain)</h3>
-                <ul>
-                  <li><a href="http://www.gutenberg.org/ebooks/284">site</a></li>
-                </ul>
-              </li>
-            </ul>
           </li>
           <li>
             <h2 id="databases-1">Databases</h2>
