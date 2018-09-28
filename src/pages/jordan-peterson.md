@@ -8,3 +8,5 @@ I don't spend a lot of time exploring Jordan Peterson, I much rather enjoy basin
 Or just unschool CS using this site. YOLO.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LquIQisaZFU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QMoQYbfj59s?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
