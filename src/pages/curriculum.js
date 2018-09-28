@@ -45,6 +45,9 @@ export default ({ data }) => (
                 <h4 id="computer-fundamentals"><a href="#computer-fundamentals---tutorialspoint-india-youtube">Computer Fundamentals</a></h4>
               </li>
               <li>
+                <h4 id="swift-playgrounds"><a href="#swift-playgrounds-1">Swift Playgrounds</a></h4>
+              </li>
+              <li>
                 <h4 id="snap"><a href="#snap-1">Snap!</a></h4>
               </li>
               <li>
@@ -263,6 +266,21 @@ export default ({ data }) => (
                       <li><a href="https://launchschool.com/books/git">site</a></li>
                     </ul>
                   </li>
+                  <li>Version Control by Example - Eric Sink (OER) [Chapters 1,2,4,5,6,8 only]
+                    <ul>
+                      <li><a href="https://ericsink.com/vcbe/index.html">site</a></li>
+                    </ul>
+                  </li>
+                  <li>Learn Enough Git to Be Dangerous - Michael Hartl (OER)
+                    <ul>
+                      <li><a href="https://www.learnenough.com/git-tutorial">site</a></li>
+                    </ul>
+                  </li>
+                  <li>Git® Notes for Professionals book - Stack Overflow (OER)
+                    <ul>
+                      <li><a href="https://goalkicker.com/GitBook/">site</a></li>
+                    </ul>
+                  </li>
                 </ul>
               </li>
               <li>
@@ -299,6 +317,12 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
+                <h3 id="swift-playgrounds-1">Swift Playgrounds</h3>
+                <ul>
+                  <li><a href="https://www.apple.com/swift/playgrounds/">ipad app</a></li>
+                </ul>
+              </li>
+              <li>
                 <h3 id="snap-1"><a href="https://snap.berkeley.edu/">Snap!</a></h3>
                 <ul>
                   <li>
@@ -322,7 +346,7 @@ export default ({ data }) => (
                     </ul>
                   </li>
                   <li>
-                    <h4 id="computer-science-concepts-in-scratch---michal-armoni-moti-ben-ari-oer">Computer Science Concepts in Scratch - Michal Armoni, Moti Ben-Ari (oer)</h4>
+                    <h4 id="computer-science-concepts-in-scratch---michal-armoni-moti-ben-ari-oer">Computer Science Concepts in Scratch - Michal Armoni, Moti Ben-Ari (OER)</h4>
                     <ul>
                       <li><a href="https://stwww1.weizmann.ac.il/scratch/scratch_en/">site</a></li>
                     </ul>
@@ -334,7 +358,7 @@ export default ({ data }) => (
                     </ul>
                   </li>
                   <li>
-                    <h4 id="scratch-programming-playground---al-sweigart-oer">Scratch Programming Playground - Al Sweigart (oer)</h4>
+                    <h4 id="scratch-programming-playground---al-sweigart-oer">Scratch Programming Playground - Al Sweigart (OER)</h4>
                     <ul>
                       <li><a href="https://inventwithscratch.com/">site</a></li>
                     </ul>
@@ -344,30 +368,67 @@ export default ({ data }) => (
               <li>
                 <h3 id="puredata-1"><a href="https://puredata.info/">PureData</a></h3>
                 <ul>
-                  <li>PURE DATA - cheetomoskeeto (Youtube)
+                  <li>
+                    <h4 id="pure-data---cheetomoskeeto-youtube">PURE DATA - cheetomoskeeto (youtube)</h4>
                     <ul>
                       <li><a href="https://www.youtube.com/watch?v=rtgGol-I4gA&amp;list=PL12DC9A161D8DC5DC">playlist</a></li>
                     </ul>
                   </li>
-                  <li>Learning Synthesis with Pure Data - LWM Music (youtube)
+                  <li>
+                    <h4 id="learning-synthesis-with-pure-data---lwm-music-youtube">Learning Synthesis with Pure Data - LWM Music (youtube)</h4>
                     <ul>
                       <li><a href="https://www.youtube.com/watch?v=Fx5nTjUrK-g&amp;list=PLQpnOqsrcBuq3JVvn4nQP90jv_rAs2cDQ">playlist</a></li>
                     </ul>
                   </li>
-                  <li>Pure Data - FLOSS Manuals <a href="http://write.flossmanuals.net/pure-data/introduction2/">tutorial</a></li>
-                  <li>Designing Sound - Andy Farnell <a href="http://dm.ncl.ac.uk/courseblog/files/2011/02/pd_intro.pdf">pdf</a></li>
-                  <li>Programming Electronic Music in Pd - Johannes Kreidler <a href="http://www.pd-tutorial.com/">pdf</a></li>
+                  <li>
+                    <h4 id="pure-data---floss-manuals-oer">Pure Data - FLOSS Manuals (OER)</h4>
+                    <ul>
+                      <li><a href="http://write.flossmanuals.net/pure-data/introduction2/">tutorial</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="designing-sound---andy-farnell-oer">Designing Sound - Andy Farnell (OER)</h4>
+                    <ul>
+                      <li><a href="http://dm.ncl.ac.uk/courseblog/files/2011/02/pd_intro.pdf">pdf</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="programming-electronic-music-in-pd---johannes-kreidler-oer">Programming Electronic Music in Pd - Johannes Kreidler (OER)</h4>
+                    <ul>
+                      <li><a href="http://www.pd-tutorial.com/">pdf</a></li>
+                    </ul>
+                  </li>
                 </ul>
               </li>
               <li>
                 <h3 id="sonic-pi-1"><a href="https://sonic-pi.net/">Sonic Pi</a></h3>
                 <ul>
-                  <li>Introduction to Sonic Pi - Dave Conservatoire 
-            - <a href="https://www.youtube.com/watch?v=4BPKaHV7Q5U&amp;list=PLaitaNxyd8SHvTQjRGnMdKLsARXW7iYyp">playlist</a></li>
-                  <li>Davids Fiddle <a href="https://www.youtube.com/watch?v=oRB561XNSIM&amp;list=PLxJoOXhg8m5LbBzczDCeZ4wzky1K578SS">playlist</a></li>
-                  <li>Getting Started With Sonic Pi - Raspberry Pi Foundation <a href="https://projects.raspberrypi.org/en/projects/getting-started-with-sonic-pi/">tutorial</a></li>
-                  <li>Creative programming workshop with Sonic Pi - mehackit <a href="http://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html">tutorial</a></li>
-                  <li>Sonic Pi Tutorial <a href="https://sonic-pi.net/tutorial.html">tutorial</a></li>
+                  <li>
+                    <h4 id="introduction-to-sonic-pi---dave-conservatoire">Introduction to Sonic Pi - Dave Conservatoire</h4>
+                    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- [playlist](https://www.youtube.com/watch?v=4BPKaHV7Q5U&amp;list=PLaitaNxyd8SHvTQjRGnMdKLsARXW7iYyp)
+        </code></pre></div>            </div>
+                  </li>
+                  <li>
+                    <h4 id="davids-fiddle">Davids Fiddle</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=oRB561XNSIM&amp;list=PLxJoOXhg8m5LbBzczDCeZ4wzky1K578SS">playlist</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="getting-started-with-sonic-pi---raspberry-pi-foundation">Getting Started With Sonic Pi - Raspberry Pi Foundation</h4>
+                    <ul>
+                      <li><a href="https://projects.raspberrypi.org/en/projects/getting-started-with-sonic-pi/">tutorial</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="creative-programming-workshop-with-sonic-pi---mehackit">Creative programming workshop with Sonic Pi - mehackit</h4>
+                    <ul>
+                      <li><a href="http://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html">tutorial</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="sonic-pi-tutorial-tutorial">Sonic Pi Tutorial <a href="https://sonic-pi.net/tutorial.html">tutorial</a></h4>
+                  </li>
                 </ul>
               </li>
               <li>
@@ -624,6 +685,12 @@ export default ({ data }) => (
                     </ul>
                   </li>
                   <li>
+                    <h4 id="cs101-introduction-to-computer-science-i---saylororg-oer">CS101: Introduction to Computer Science I - Saylor.org (OER)</h4>
+                    <ul>
+                      <li><a href="https://learn.saylor.org/course/view.php?id=6">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
                     <h4 id="ap-computer-science-a-java-programming---purdue-mooc">AP Computer Science A: Java Programming - Purdue (mooc)</h4>
                     <ul>
                       <li><a href="https://www.edx.org/course/ap-computer-science-a-java-programming">part1</a> <a href="https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-2x-0">part2</a> <a href="https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-3x-0">part3</a> <a href="https://www.edx.org/course/ap-computer-science-java-programming-purduex-cs180-4x-0">part4</a></li>
@@ -635,15 +702,23 @@ export default ({ data }) => (
                       <li><a href="https://introcs.cs.princeton.edu/java/home/">site</a></li>
                     </ul>
                   </li>
+                  <li>
+                    <h4 id="whats-new-in-java-8---adam-l-davis-oer">What’s New in Java 8 - Adam L. Davis (OER)</h4>
+                    <ul>
+                      <li><a href="https://leanpub.com/whatsnewinjava8/read">site</a></li>
+                    </ul>
+                  </li>
                 </ul>
               </li>
               <li>
                 <h3 id="htmlcss-1">HTML/CSS</h3>
                 <ul>
                   <li>
-                    <h3 id="khan-academy-html-tutorials">Khan Academy HTML Tutorials</h3>
+                    <h4 id="khan-academy-html-tutorials">Khan Academy HTML Tutorials</h4>
                     <ul>
-                      <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css">tut1</a> <a href="https://www.khanacademy.org/computing/computer-programming/html-css-js">tut2</a> <a href="https://www.khanacademy.org/computing/computer-programming/html-js-jquery">tut3</a></li>
+                      <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css">tutorial1</a></li>
+                      <li><a href="https://www.khanacademy.org/computing/computer-programming/html-css-js">tutorial2</a></li>
+                      <li><a href="https://www.khanacademy.org/computing/computer-programming/html-js-jquery">tutorial3</a></li>
                     </ul>
                   </li>
                   <li>
@@ -736,6 +811,18 @@ export default ({ data }) => (
                     </ul>
                   </li>
                   <li>
+                    <h4 id="cs102-introduction-to-computer-science-ii---saylororg-oer">CS102: Introduction to Computer Science II - Saylor.org (OER)</h4>
+                    <ul>
+                      <li><a href="https://learn.saylor.org/course/view.php?id=64">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="cs107-c-programming---saylororg-oer">CS107: C++ Programming - Saylor.org (OER)</h4>
+                    <ul>
+                      <li><a href="https://learn.saylor.org/course/view.php?id=65">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
                     <h4 id="programming-abstractions-in-c---eric-s-roberts-oer">Programming Abstractions in C++ - Eric S. Roberts (OER)</h4>
                     <ul>
                       <li><a href="http://web.stanford.edu/class/cs106x/">site</a></li>
@@ -808,6 +895,12 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
+                <h3 id="cs301-computer-architecture---saylororg-oer">CS301: Computer Architecture - Saylor.org (OER)</h3>
+                <ul>
+                  <li><a href="https://learn.saylor.org/course/view.php?id=71">site</a></li>
+                </ul>
+              </li>
+              <li>
                 <h3 id="introduction-to-computer-organization-arm-assembly-language-using-the-raspberry-pi---robert-g-plantz">Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi - Robert G. Plantz</h3>
                 <ul>
                   <li><a href="http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html">site</a></li>
@@ -874,6 +967,12 @@ export default ({ data }) => (
                 <h3 id="a-spiral-workbook-for-discrete-mathematics---harris-kwong-oer">A Spiral Workbook for Discrete Mathematics - Harris Kwong (OER)</h3>
                 <ul>
                   <li><a href="http://textbooks.opensuny.org/a-spiral-workbook-for-discrete-mathematics/">site</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="cs202-discrete-structures---saylororg-oer">CS202: Discrete Structures - Saylor.org (OER)</h3>
+                <ul>
+                  <li><a href="https://learn.saylor.org/course/view.php?id=67">site</a></li>
                 </ul>
               </li>
               <li>
@@ -1004,6 +1103,12 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
+                <h3 id="cs201-elementary-data-structures---saylororg-oer">CS201: Elementary Data Structures - Saylor.org (OER)</h3>
+                <ul>
+                  <li><a href="https://learn.saylor.org/course/view.php?id=66">site</a></li>
+                </ul>
+              </li>
+              <li>
                 <h3 id="cs-61b-data-structures---berkeley-ocw">CS 61B Data Structures - Berkeley (OCW)</h3>
                 <ul>
                   <li><a href="https://sp18.datastructur.es/">site</a></li>
@@ -1061,13 +1166,13 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="cs403-introduction-to-modern-database-systems---saylor-oer">CS403: INTRODUCTION TO MODERN DATABASE SYSTEMS - Saylor (OER)</h3>
+                <h3 id="cs403-introduction-to-modern-database-systems---saylor-oer">CS403: Introduction to Modern Database Systems - Saylor (OER)</h3>
                 <ul>
-                  <li><a href="https://learn.saylor.org/course/cs403">site</a></li>
+                  <li><a href="https://learn.saylor.org/course/view.php?id=93">site</a></li>
                 </ul>
               </li>
               <li>
-                <h3 id="cs410-advanced-databases---saylor-oer">CS410: ADVANCED DATABASES - Saylor (OER)</h3>
+                <h3 id="cs410-advanced-databases---saylor-oer">CS410: Advanced Databases - Saylor (OER)</h3>
                 <ul>
                   <li><a href="https://learn.saylor.org/course/cs410">site</a></li>
                 </ul>
@@ -1092,6 +1197,12 @@ export default ({ data }) => (
               <li>
                 <h3 id="node">Node</h3>
                 <ul>
+                  <li>
+                    <h4 id="the-definitive-nodejs-handbook---flavio-copes-oer">The definitive Node.js handbook - Flavio Copes (OER)</h4>
+                    <ul>
+                      <li><a href="https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e">site</a></li>
+                    </ul>
+                  </li>
                   <li>
                     <h4 id="what-you-need-to-know-about-nodejs---bruno-joseph-dmello-oer">What You Need To Know About Node.js - Bruno Joseph Dmello (OER)</h4>
                     <ul>
@@ -1144,10 +1255,97 @@ export default ({ data }) => (
               </li>
               <li>
                 <h3 id="go-1">Go</h3>
-                <p>-</p>
+                <ul>
+                  <li>
+                    <h4 id="go-bootcamp-everything-you-need-to-know-to-get-started-with-go---matt-aimonetti-oer">Go Bootcamp: Everything You Need to Know to Get Started with Go - Matt Aimonetti (OER)</h4>
+                    <ul>
+                      <li><a href="http://www.golangbootcamp.com/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="an-introduction-to-programming-in-go---caleb-doxsey">An Introduction to Programming in Go - Caleb Doxsey</h4>
+                    <ul>
+                      <li><a href="http://www.golang-book.com/books/intro">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="the-little-go-book---karl-seguin-oer">The Little Go Book - Karl Seguin (OER)</h4>
+                    <ul>
+                      <li><a href="https://github.com/karlseguin/the-little-go-book">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="the-way-to-go-a-thorough-introduction-to-the-go-programming-language---ivo-balbaert-oer">The Way To Go: A Thorough Introduction To The Go Programming Language - Ivo Balbaert (OER)</h4>
+                    <ul>
+                      <li><a href="https://archive.org/details/TheWayToGo">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="go-programming---john-p-baugh-oer">Go Programming - John P. Baugh (OER)</h4>
+                    <ul>
+                      <li><a href="https://archive.org/details/GoProgramming">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="go-by-example---mark-mcgranaghan-oer">Go by Example - Mark McGranaghan (OER)</h4>
+                    <ul>
+                      <li><a href="https://gobyexample.com/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="building-web-apps-with-go---jeremy-saenz-oer">Building Web Apps with Go - Jeremy Saenz (OER)</h4>
+                    <ul>
+                      <li><a href="https://codegangsta.gitbooks.io/building-web-apps-with-go/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="web-apps-in-go-the-anti-textbook---suraj-patil--oer">Web apps in Go, the anti textbook - Suraj Patil  (OER)</h4>
+                    <ul>
+                      <li><a href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/">site</a></li>
+                    </ul>
+                  </li>
+                </ul>
               </li>
               <li>
                 <h3 id="clojure-1">Clojure</h3>
+                <ul>
+                  <li>
+                    <h4 id="clojure-for-the-brave-and-true---daniel-higginbotham-oer">Clojure for the Brave and True - Daniel Higginbotham (OER)</h4>
+                    <ul>
+                      <li><a href="https://www.braveclojure.com/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="clojure-distilled---dmitri-sotnikov-oer">Clojure Distilled - Dmitri Sotnikov (OER)</h4>
+                    <ul>
+                      <li><a href="http://yogthos.github.io/ClojureDistilled.html">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="a-brief-beginners-guide-to-clojure---john-gabriele-oer">A Brief Beginner’s Guide To Clojure - John Gabriele (OER)</h4>
+                    <ul>
+                      <li><a href="http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="clojure-by-example---hirokuni-kim-oer">Clojure By Example - Hirokuni Kim (OER)</h4>
+                    <ul>
+                      <li><a href="https://kimh.github.io/clojure-by-example/#boolean">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="sicp-distilled---an-idiosyncratic-tour-of-sicp-in-clojure---tom-hall-oer">SICP Distilled - An idiosyncratic tour of SICP in Clojure - Tom Hall (OER)</h4>
+                    <ul>
+                      <li><a href="http://www.sicpdistilled.com/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="clojurescript-unraveled---andrey-antukh-alejandro-gómez-oer">ClojureScript Unraveled - Andrey Antukh, Alejandro Gómez (OER)</h4>
+                    <ul>
+                      <li><a href="https://funcool.github.io/clojurescript-unraveled/">site</a></li>
+                    </ul>
+                  </li>
+                </ul>
               </li>
             </ul>
           </li>
@@ -1214,6 +1412,12 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
+                <h4 id="computer-communications-and-networks---saylororg-oer">Computer Communications and Networks - Saylor.org (OER)</h4>
+                <ul>
+                  <li><a href="https://learn.saylor.org/course/view.php?id=84">site</a></li>
+                </ul>
+              </li>
+              <li>
                 <h3 id="introduction-to-computer-networking---stanford-ocw">Introduction to Computer Networking - Stanford (OCW)</h3>
                 <ul>
                   <li><a href="https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about">site</a></li>
@@ -1252,6 +1456,12 @@ export default ({ data }) => (
                 <h3 id="operating-systems---tutorialspoint-india-youtube">Operating Systems - TutorialsPoint India (YouTube)</h3>
                 <ul>
                   <li><a href="https://www.youtube.com/watch?v=QTQ8zym8Au0&amp;list=PLWPirh4EWFpGkHH9JTKH9KsnfAA471Fhy">playlist</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="cs401-operating-systems---saylororg-oer">CS401: Operating Systems - Saylor.org (OER)</h3>
+                <ul>
+                  <li><a href="https://learn.saylor.org/course/view.php?id=94">site</a></li>
                 </ul>
               </li>
               <li>
@@ -1520,15 +1730,15 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h3 id="cs302-software-engineering---saylor-oer">CS302: SOFTWARE ENGINEERING - Saylor (OER)</h3>
-                <ul>
-                  <li><a href="https://learn.saylor.org/course/view.php?id=73">site</a></li>
-                </ul>
-              </li>
-              <li>
                 <h3 id="software-engineering---tutorialspoint-india-youtube">Software Engineering - TutorialsPoint India (YouTube)</h3>
                 <ul>
                   <li><a href="https://www.youtube.com/watch?v=4b1D1QFEel0&amp;list=PLWPirh4EWFpG2b1L3CL-OAPYcM25jLjXH">playlist</a></li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="cs302-software-engineering---saylor-oer">CS302: Software Engineering - Saylor (OER)</h3>
+                <ul>
+                  <li><a href="https://learn.saylor.org/course/view.php?id=73">site</a></li>
                 </ul>
               </li>
               <li>
