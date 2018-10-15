@@ -179,6 +179,20 @@ export default ({ data }) => (
             <h3 id="mobile-development"><a href="#mobile-development-1">Mobile Development</a></h3>
           </li>
           <li>
+            <h3 id="advanced-programming"><a href="#advanced-programming-1">Advanced Programming</a></h3>
+            <ul>
+              <li>
+                <h4 id="haskell"><a href="#haskell-1">Haskell</a></h4>
+              </li>
+              <li>
+                <h4 id="scheme"><a href="#scheme-1">Scheme</a></h4>
+              </li>
+              <li>
+                <h4 id="rust"><a href="#rust-1">Rust</a></h4>
+              </li>
+            </ul>
+          </li>
+          <li>
             <h3 id="game-development"><a href="#game-development-1">Game Development</a></h3>
           </li>
           <li>
@@ -404,9 +418,10 @@ export default ({ data }) => (
                 <h3 id="sonic-pi-1"><a href="https://sonic-pi.net/">Sonic Pi</a></h3>
                 <ul>
                   <li>
-                    <h4 id="introduction-to-sonic-pi---dave-conservatoire">Introduction to Sonic Pi - Dave Conservatoire</h4>
-                    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- [playlist](https://www.youtube.com/watch?v=4BPKaHV7Q5U&amp;list=PLaitaNxyd8SHvTQjRGnMdKLsARXW7iYyp)
-        </code></pre></div>            </div>
+                    <h4 id="introduction-to-sonic-pi---dave-conservatoire-youtube">Introduction to Sonic Pi - Dave Conservatoire (youtube)</h4>
+                    <ul>
+                      <li><a href="https://www.youtube.com/watch?v=4BPKaHV7Q5U&amp;list=PLaitaNxyd8SHvTQjRGnMdKLsARXW7iYyp">playlist</a></li>
+                    </ul>
                   </li>
                   <li>
                     <h4 id="davids-fiddle">Davids Fiddle</h4>
@@ -681,7 +696,7 @@ export default ({ data }) => (
                   <li>
                     <h4 id="java---tutorialspoint-india-youtube-1">Java - TutorialsPoint India (YouTube)</h4>
                     <ul>
-                      <li>[playlist](https://www.youtube.com/watch?v=GtgdHzLvf4Q&amp;list=PLWPirh4EWFpFfTUVBl5KbeXly1sHKSc-Z</li>
+                      <li><a href="https://www.youtube.com/watch?v=GtgdHzLvf4Q&amp;list=PLWPirh4EWFpFfTUVBl5KbeXly1sHKSc-Z">playlist</a></li>
                     </ul>
                   </li>
                   <li>
@@ -850,12 +865,6 @@ export default ({ data }) => (
                     <h4 id="learn-programming---antti-salonen-oer">Learn Programming - Antti Salonen (OER)</h4>
                     <ul>
                       <li><a href="https://progbook.org/">site</a></li>
-                    </ul>
-                  </li>
-                  <li>
-                    <h4 id="how-to-design-programs---matthias-felleisen-robert-bruce-findler-matthew-flatt-shriram-krishnamurthi-oer">How to Design Programs - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi (OER)</h4>
-                    <ul>
-                      <li><a href="https://htdp.org/">site</a></li>
                     </ul>
                   </li>
                   <li>
@@ -1412,7 +1421,7 @@ export default ({ data }) => (
                 </ul>
               </li>
               <li>
-                <h4 id="computer-communications-and-networks---saylororg-oer">Computer Communications and Networks - Saylor.org (OER)</h4>
+                <h3 id="computer-communications-and-networks---saylororg-oer">Computer Communications and Networks - Saylor.org (OER)</h3>
                 <ul>
                   <li><a href="https://learn.saylor.org/course/view.php?id=84">site</a></li>
                 </ul>
@@ -1969,6 +1978,86 @@ export default ({ data }) => (
           </li>
           <li>
             <h2 id="mobile-development-1">Mobile Development</h2>
+          </li>
+          <li>
+            <h2 id="advanced-programming-1">Advanced Programming</h2>
+            <ul>
+              <li>
+                <h3 id="haskell-1">Haskell</h3>
+                <ul>
+                  <li>
+                    <h4 id="learn-haskell-fast-and-hard---yann-esposito-oer">Learn Haskell Fast and Hard - Yann Esposito (OER)</h4>
+                    <ul>
+                      <li><a href="http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="learn-you-a-haskell-for-great-good---miran-lipovaca-oer">Learn You A Haskell For Great Good - Miran Lipovaca (OER)</h4>
+                    <ul>
+                      <li><a href="http://learnyouahaskell.com/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="real-world-haskell---bryan-osullivan-don-stewart-john-goerzen-oer">Real World Haskell - Bryan O’Sullivan, Don Stewart, John Goerzen (OER)</h4>
+                    <ul>
+                      <li><a href="http://book.realworldhaskell.org/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="yet-another-haskell-tutorial---hal-daume-iii-oer">Yet Another Haskell Tutorial - Hal Daume´ III (OER)</h4>
+                    <ul>
+                      <li><a href="http://users.umiacs.umd.edu/~hal/docs/daume02yaht.pdf">pdf</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="scheme-1">Scheme</h3>
+                <ul>
+                  <li>
+                    <h4 id="how-to-design-programs---matthias-felleisen-robert-bruce-findler-matthew-flatt-shriram-krishnamurthi-oer">How to Design Programs - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi (OER)</h4>
+                    <ul>
+                      <li><a href="https://htdp.org/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="computer-science-61a---uc-berkeley-ocw">Computer Science 61A - UC Berkeley (OCW)</h4>
+                    <ul>
+                      <li><a href="https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E">playlist</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="structure-and-interpretation-of-computer-programs---harold-abelson-gerald-jay-sussman-julie-sussman-oer">Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Jay Sussman, Julie Sussman (OER)</h4>
+                    <ul>
+                      <li><a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="sicp---mit-ocw">SICP - MIT (OCW)</h4>
+                    <ul>
+                      <li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/">site</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <h3 id="rust-1">Rust</h3>
+                <ul>
+                  <li>
+                    <h4 id="rust-by-example-oer">Rust by Example (OER)</h4>
+                    <ul>
+                      <li><a href="https://doc.rust-lang.org/stable/rust-by-example/">site</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <h4 id="the-rust-programming-language---nicholas-matsakis-aaron-turon-oer">The Rust Programming Language - Nicholas Matsakis, Aaron Turon (OER)</h4>
+                    <ul>
+                      <li><a href="https://doc.rust-lang.org/book/2018-edition/index.html">site</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
           </li>
           <li>
             <h2 id="game-development-1">Game Development</h2>
