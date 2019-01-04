@@ -3,9 +3,9 @@ date: "2019-01-03"
 title: "Retire a Millionaire by Skipping College"
 ---
 
-I was playing around with a compound calculator today, wondering about how someone could benefit by not having to pay tuition costs when they turned 22. If, instead of entering the work force with a multi-year challenge of paying off $60,000 in college debt, they instead invested that $60,000 in VTSAX at the age of 18.
+I was playing around with a compound calculator today, wondering about how someone could benefit by not having to pay tuition costs when they turned 22. If, instead of entering the work force with the challenge of paying off $60,000 in debt, they instead entered the workforce debt free and invested that $60,000 in VTSAX upfront at the age of 18.
 
-I've made this argument before, that instead of paying tuition, you should just buy a cheap house to live in for the rest of your life. But to put the opportunity cost of graduating with debt in perspective, things really become stark if you compound your tuition.
+I've made this argument before on former websites, that instead of paying tuition, you should just buy a cheap house to live in for the rest of your life. But to put the opportunity cost of graduating with debt in perspective, things really become stark if you compound your opportunity cost on tuition.
 
 Let's say you decide to go with the Holm Schooling course lined out of these pages. Instead of going to college, you are going to use your public library, a cheap PluralSight account, and Library Genesis to study computer science for four years from age 18-22 instead of enrolling in college. If you took the $60,000 you would have spent on tuition, which you are obligated to pay back starting around age 22, you would have 47 years for which you could be compounding. Retire at 65, invest $60,000 at age 18 instead of paying tuition = 47 years of compounding. By paying tuition instead of investing that $60,000, you are turning down roughly $1,442,742 at retirement, compounded at 7% gain.
 
