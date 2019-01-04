@@ -3,7 +3,7 @@ date: "2019-01-03"
 title: "Retire a Millionaire by Skipping College"
 ---
 
-I was playing around with a compound calculator today, wondering about how someone could benefit by not having to pay tuition costs when they turned 22. If, instead of entering the work force with the challenge of paying off $60,000 in debt, they instead entered the workforce debt free and invested that $60,000 in VTSAX upfront at the age of 18.
+I was playing around with a compound calculator today, wondering about how someone could benefit by not having to pay tuition costs when they turned 22. If, instead of entering the work force with the challenge of paying off $60,000 in debt, they instead entered the workforce debt free and invested that $60,000 in VTSAX or VFIAX upfront at the age of 18.
 
 I've made this argument before on former websites, that instead of paying tuition, you should just buy a cheap house to live in for the rest of your life. But to put the opportunity cost of graduating with debt in perspective, things really become stark if you compound your opportunity cost on tuition.
 
