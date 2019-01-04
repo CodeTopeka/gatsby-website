@@ -73,13 +73,14 @@ export default ({ data }) => {
   return (
     <Layout>
       <div>
-        <img src={vilhelm_hammershoi_1} alt="Painting 'Interior in Strandgade, Sunlight on the Floor' by Vilhelm Hammershøi, 1901" width="100%"/>
+        
         <div className={css`
           max-width: 800px;
           margin: 0 auto;
           margin-top: -22px;
           padding: 10px;
         `}>
+          <img src={vilhelm_hammershoi_1} alt="Painting 'Interior in Strandgade, Sunlight on the Floor' by Vilhelm Hammershøi, 1901" width="100%"/>
           <div className={css`
             text-align: center;
           `}>
