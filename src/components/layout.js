@@ -98,7 +98,7 @@ export default ({ children }) => (
           display: flex;
           flex-direction: row;
           justify-content: center;
-          margin: 5px 5px 0px 10px;
+          margin: 5px 5px 10px 10px;
 
         `}>
           <Link to={`/`} className={css`
@@ -219,7 +219,7 @@ export default ({ children }) => (
             >
               Slack
             </a>
-            <a
+            {/* <a
               href={`https://twitter.com/HolmSchool`}
               className={cx(css`
 
@@ -234,7 +234,7 @@ export default ({ children }) => (
               `, navItem)}
             >
               <svg className={svgNav} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M22.675 0h-21.35c-.732 0-1.325.593-1.325 1.325v21.351c0 .731.593 1.324 1.325 1.324h11.495v-9.294h-3.128v-3.622h3.128v-2.671c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463.099 2.795.143v3.24l-1.918.001c-1.504 0-1.795.715-1.795 1.763v2.313h3.587l-.467 3.622h-3.12v9.293h6.116c.73 0 1.323-.593 1.323-1.325v-21.35c0-.732-.593-1.325-1.325-1.325z"/></svg>
-            </a>
+            </a> */}
             <a
               href={`https://github.com/HolmSchool`}
               className={cx(css`
@@ -250,6 +250,8 @@ export default ({ children }) => (
         {children}
         <div className={css`
           margin-top: 10px;
+          max-width: 800px;
+          margin: auto;
         `}>
           <a href="https://www.negativland.com/news/wp-content/uploads/text/negativland-two_relationships_essay.pdf"><img src={public_domain_small} alt="Public Domain" className={css`;margin-left: 20px; width:120px;margin-right: 30px;`}/></a>
 
@@ -272,7 +274,7 @@ export default ({ children }) => (
 
 
               `}>
-                Holm.School:2018
+                Holm.School:2019
             </span>
           </Link>
           
