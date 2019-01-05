@@ -1,5 +1,5 @@
 ---
-date: "2019-01-03"
+date: "2019-01-04"
 title: "LibGen Books on Index Funds"
 ---
 
