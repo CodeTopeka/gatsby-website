@@ -1,6 +1,7 @@
 ---
 date: "2018-09-29"
 title: "Index Funds"
+ghissue: 10
 ---
 
 Though Holm.School isn't necessarily a Financial Independence/Early Retirement blog (I myself am quite a newb to this, having only learned about Mr. Money Mustache early in 2017 thanks to Ryan Carson's great Educate Yourself podcast), I think it's impossible to focus on frugality in computer science education and not talk about what that frugality is for: optimally, early retirement or at least financial independence. If you are interested in financial independence, I suggest you take a week of your life and read every blog post at [Mr. Money Mustache](http://www.mrmoneymustache.com). From there, explore more frugality blogs and books.

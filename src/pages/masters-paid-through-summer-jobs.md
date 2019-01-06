@@ -1,6 +1,7 @@
 ---
 date: "2018-09-23"
 title: "A Master's Degree in Computer Science Paid For Through Summer Jobs"
+ghissue: 9
 ---
 
 Here's my four-year online curriculum for potential computer science students who want to earn a bachelor's and even a master's degree.

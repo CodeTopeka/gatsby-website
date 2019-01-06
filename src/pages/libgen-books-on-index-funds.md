@@ -1,6 +1,7 @@
 ---
 date: "2019-01-04"
 title: "LibGen Books on Index Funds"
+ghissue: 15
 ---
 
 Here's a listing of some books on index funds available on Library Genesis or your public library. This list has been adapted from [Reddit's Financial Independence's reading list](https://www.reddit.com/r/financialindependence/wiki/books).

@@ -1,6 +1,7 @@
 ---
 date: "2018-11-03"
 title: "What is Holm Schooling?"
+ghissue: 13
 ---
 
 In the quest to get a first computer science job while spending as little money as possible, you can completely hack college education to get you to where you want to be. I call these techniques Holm Schooling, because unschooling doesn’t necessarily convey all the little tips and trick I want to teach through this site. Holm Schooling doesn’t mean you’re enrolled at Holm School – there’s no such place – but it means you’re applying a set of principles to maximize the goals of unschooling while not sacrificing the benefits of affordable public education. Let’s explore.

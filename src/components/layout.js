@@ -92,6 +92,7 @@ export default ({ children }) => (
           type="image/png" 
           href={favicon}/>
           
+          
 
         </Helmet>
         <div className={css`

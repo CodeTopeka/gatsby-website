@@ -1,6 +1,7 @@
 ---
 date: "2018-08-10"
 title: "Computer Science Open Educational Resources in 2018"
+ghissue: 2
 ---
 
 

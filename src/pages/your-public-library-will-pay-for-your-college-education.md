@@ -1,6 +1,7 @@
 ---
 date: "2018-10-11"
 title: "How You Can Be Sure Your Public Library Will Pay For Your College Education In The Future"
+ghissue: 11
 ---
 
 Take this for an example: You're watching TV, and an actor pops up. You hear that the actor was born in Michigan. You're from Michigan, so you are curious exactly where the actor was born. So you bring out your cell phone or tablet, google the actor, and look at their Wikipedia Information. Finding the city, you return to focusing on the TV.

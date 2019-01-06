@@ -1,6 +1,7 @@
 ---
 date: "2018-10-18"
 title: "What it Means to Pay for College in Cash"
+ghissue: 12
 ---
 
 I have a hypothesis: College is only worth paying for in cash. That is to say, never take out a loan to pay for college. Especially for a computer science degree. You can enforce this in a number of ways: Self-study for free through the internet using the open education resources listed on the [curriculum](/curriculum) page, or otherwise going to community college to study computer science/programming (and not taking other classes in other departments). You could also enroll at University of the People and pay for college in cash by working five hours per week and living at home for four years while you complete the degree. Ditto for the community college option, if one is located in your hometown. Stay frugal and pay in cash.

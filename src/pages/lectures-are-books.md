@@ -1,6 +1,7 @@
 ---
 date: "2018-08-30"
 title: "Lectures are Books"
+ghissue: 5
 ---
 
 I am going to write about one of the most difficult roadblocks to a student getting over their feelings of obligation to pay for an expensive bachelors degree. This roadblock is the idea that lectures are non-reproducible, that they exist outside of the economy of ebooks and that because of this, the high costs of college study must be justified. But in the days of cell phones being full-fledged video production machines, this concern does not hold water. A college lecture can be recorded digitally and uploaded to YouTube for free. This can be viewed an infinite amount of times for no hosting cost, making the audience for the lecture unbound from the size of seats in the classroom.

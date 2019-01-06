@@ -1,6 +1,7 @@
 ---
 date: "2019-01-05"
 title: "Bootstrap Your Computer Science Career"
+ghissue: 16
 ---
 
 Here's a way to start a career as a developer for minimal investment -- only the cost of a Raspberry Pi and broadband.

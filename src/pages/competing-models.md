@@ -1,6 +1,7 @@
 ---
 date: "2018-08-22"
 title: "Competing Models of Education: The University versus the Public Library"
+ghissue: 3
 ---
 
 

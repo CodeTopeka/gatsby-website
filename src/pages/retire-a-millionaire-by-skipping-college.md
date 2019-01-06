@@ -1,6 +1,7 @@
 ---
 date: "2019-01-03"
 title: "Retire a Millionaire by Skipping College"
+ghissue: 14
 ---
 
 I was playing around with a compound calculator today, wondering about how someone could benefit by not having to pay tuition costs when they turned 22. If, instead of entering the work force with the challenge of paying off $60,000 in debt, they instead entered the workforce debt free and invested that $60,000 in VTSAX or VFIAX upfront at the age of 18.
