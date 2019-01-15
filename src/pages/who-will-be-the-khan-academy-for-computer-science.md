@@ -1,6 +1,6 @@
 ---
 date: "2019-01-14"
-title: "Who will be the Khan Academy for computer science?"
+title: "Who Will Be The Khan Academy For Computer Science?"
 ghissue: 18
 ---
 
