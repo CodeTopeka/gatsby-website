@@ -7,7 +7,7 @@ import birgerSandzen from "../img/11105836_small.jpg"
 
 export default ({ data }) => (
   <Layout>
-    <div className={cx(big-images)}>
+    <div className="bigimages">
       <img src={birgerSandzen} width="100%" alt="Painting 'Lidköpings hamn med Kinnekulle i bakgrunden' by Birger Sandzen, 1893"/>
     </div>
     <div className={css`

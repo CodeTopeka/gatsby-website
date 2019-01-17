@@ -59,7 +59,7 @@
 
 
 import React from "react"
-import { css, cx } from "react-emotion"
+import { css } from "react-emotion"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
@@ -73,7 +73,7 @@ export default ({ data }) => {
   return (
     <Layout>
       <div>
-        <div className={cx(big-images)}>
+        <div className="bigimages">
           <img src={vilhelm_hammershoi_1} alt="Painting 'Interior in Strandgade, Sunlight on the Floor' by Vilhelm Hammershøi, 1901" width="100%"/>
         </div>
         <div className={css`
@@ -132,7 +132,7 @@ export default ({ data }) => {
           
         
         </div>
-        <div className={cx(big-images)}>
+        <div className="bigimages">
           <img src={vilhelm_hammershoi_2} alt="Painting 'The Buildings of the Asiatic Company, seen from St. Annæ Street, Copenhagen' by Vilhelm Hammershøi, 1902" width="100%" className={css`margin-bottom: 0px;`} />  
         </div>
         

@@ -35,6 +35,7 @@ import Helmet from "react-helmet"
 import logo from "../img/square_logo_small.png"
 import public_domain_small from "../img/public_domain_small.png"
 import favicon from "../img/favicon.ico"
+import siteWideCSS from "./main.css"
 
 const navItem = css`
   margin-right: 15px;
@@ -79,9 +80,7 @@ export default ({ children }) => (
     render={data => (
       
       <div
-        className={css`
-          
-        `}
+        className={siteWideCSS}
       >
         <Helmet defaultTitle={`Holm School`} titleTemplate={`%s | Holm School`}>
           <meta name="twitter:site" content="@HolmSchool" />

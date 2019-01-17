@@ -9,7 +9,7 @@ import birger_sandzen from "../img/smoky_river.jpg"
 
 export default ({ data }) => (
   <Layout>
-    <div className={cx(big-images)}>
+    <div className="bigimages">
       <img src={birger_sandzen} width="100%" alt="Painting 'Smoky River, Kansas' by Birger Sandzen, 1926"/>
     </div>
     

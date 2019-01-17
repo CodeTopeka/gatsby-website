@@ -38,7 +38,7 @@ import vilhelm_hammershoi_3 from "../img/the-royal-palace-church-in-copenhagen-1
 
 export default ({ data }) => (
   <Layout>
-    <div className={cx(big-images)}>
+    <div className="bigimages">
       <img src={vilhelm_hammershoi_3} width="100%" alt="Painting 'The Royal Palace Church in Copenhagen' by Vilhelm Hammershøi, 1910"/>
     </div>
     <div className={css`
