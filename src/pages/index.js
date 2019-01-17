@@ -59,7 +59,7 @@
 
 
 import React from "react"
-import { css } from "react-emotion"
+import { css, cx } from "react-emotion"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 
@@ -73,14 +73,16 @@ export default ({ data }) => {
   return (
     <Layout>
       <div>
-        
+        <div className={cx(big-images)}>
+          <img src={vilhelm_hammershoi_1} alt="Painting 'Interior in Strandgade, Sunlight on the Floor' by Vilhelm Hammershøi, 1901" width="100%"/>
+        </div>
         <div className={css`
           max-width: 800px;
           margin: 0 auto;
           margin-top: -22px;
           padding: 10px;
         `}>
-          <img src={vilhelm_hammershoi_1} alt="Painting 'Interior in Strandgade, Sunlight on the Floor' by Vilhelm Hammershøi, 1901" width="100%"/>
+          
           <div className={css`
             text-align: center;
           `}>
@@ -126,9 +128,12 @@ export default ({ data }) => {
             margin: 0 auto;
           `}>
           </div>
-          <img src={vilhelm_hammershoi_2} alt="Painting 'The Buildings of the Asiatic Company, seen from St. Annæ Street, Copenhagen' by Vilhelm Hammershøi, 1902" width="100%" className={css`margin-bottom: 0px;`} />  
+          
           
         
+        </div>
+        <div className={cx(big-images)}>
+          <img src={vilhelm_hammershoi_2} alt="Painting 'The Buildings of the Asiatic Company, seen from St. Annæ Street, Copenhagen' by Vilhelm Hammershøi, 1902" width="100%" className={css`margin-bottom: 0px;`} />  
         </div>
         
       </div>

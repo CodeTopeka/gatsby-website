@@ -35,3 +35,8 @@ a {
 .nav-item {
     margin-right: 15px;
 }
+
+.big-images {
+    margin: 0 auto;
+    max-width: 800px;
+}

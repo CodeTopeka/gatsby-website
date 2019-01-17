@@ -38,7 +38,9 @@ import vilhelm_hammershoi_3 from "../img/the-royal-palace-church-in-copenhagen-1
 
 export default ({ data }) => (
   <Layout>
-    
+    <div className={cx(big-images)}>
+      <img src={vilhelm_hammershoi_3} width="100%" alt="Painting 'The Royal Palace Church in Copenhagen' by Vilhelm Hammershøi, 1910"/>
+    </div>
     <div className={css`
       margin: 0 auto;
       max-width: 800px;
@@ -57,9 +59,7 @@ export default ({ data }) => (
         Holm School is programmed using <a href="http://gatsbyjs.com">GatsbyJS</a> for a static JAM stack site hosted for free on <a href="http://netlify.com">Netlify</a>.  Thank you to the open source programmers who make that possible. All resources created by Holm School are in the public domain and downloadable at our repo on <a href="http://github.com/HolmSchool">GitHub</a>.
       </p> */}
 
-      <div className={css``}>
-          <img src={vilhelm_hammershoi_3} width="100%" alt="Painting 'The Royal Palace Church in Copenhagen' by Vilhelm Hammershøi, 1910"/>
-      </div>
+      
 
       <h1>About</h1>
 
