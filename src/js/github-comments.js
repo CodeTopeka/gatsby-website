@@ -36,19 +36,18 @@ export function DoGithubComments(comment_id, page_id)
     if(typeof document !== "undefined") {
         $(document).ready(function ()
         {
-
+            $("#gh-comments-list").empty();
             $.ajax(api_comments_url, {
                 headers: {Accept: "application/vnd.github.v3.html+json"},
                 dataType: "json",
                 success: function(comments, textStatus, jqXHR) {
-
+                    
                     // Add post button to first page
                     if (page_id === 1)
                         $("#gh-comments-list").append("<a href='" + url + "#new_comment_field' rel='nofollow' class='btn'>Post a comment on Github</a><br><br>");
 
                     // Individual comments
                     var count = 0;
-                    console.log(jqXHR);
                     $.each(comments, function(i, comment) {
 
                         var date = new Date(comment.created_at);
@@ -70,7 +69,6 @@ export function DoGithubComments(comment_id, page_id)
                         // $("#gh-load-comments").attr("onclick", "DoGithubComments(" + comment_id + "," + (page_id + 1) + ");");
                         $("#gh-load-comments").show();
                     }
-                    console.log(count);
                     count = 0;
                     // // Setup comments button if there are more pages to display
                     // var links = null;
@@ -88,7 +86,7 @@ export function DoGithubComments(comment_id, page_id)
                     // }
                 },
                 error: function(xhr) {
-                    $("#gh-comments-list").append("Comments are not open for this post yet." + xhr.status);
+                    $("#gh-comments-list").append("Comments are not open for this post yet.");
                     $("#gh-load-comments").hide();
                 }
             });
