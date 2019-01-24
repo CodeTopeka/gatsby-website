@@ -1,6 +1,3 @@
-## Build site
-run (assuming gatsby is installed globally) ```gatsby develop```
-
 # [Curriculum for Holm School](https://holmschool.github.io/curriculum/)
 Discussion for curriculum, classes, OER books, open courseware, and youtube tutorials. Order is order in which they are encountered in the courses (i.e. easiest first, most difficult last).
 
