@@ -99,7 +99,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [pdf](http://ptgmedia.pearsoncmg.com/images/9780321997548/samplepages/9780321997548.pdf)
   - ### Special Note for Public Library Students
     - Cloud IDE
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/4)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/21)
 
 - ## Beginning Programming
   - ### Crash Course Computer Science (youtube)
@@ -108,14 +108,14 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [playlist](https://www.youtube.com/watch?v=-AP1nNK3bRs&list=PLWPirh4EWFpF_2T13UeEgZWZHc8nHBuXp)
   - ### Swift Playgrounds
     - [ipad app](https://www.apple.com/swift/playgrounds/)
-    - [Discussion](https://github.com/HolmSchool/curriculum/issues/5)
+    - [Discussion](https://github.com/HolmSchool/holm-school-site/issues/22)
   - ### [Snap!](https://snap.berkeley.edu/)
     - #### Beauty and Joy of Computing (mooc)
       - edx ([first half](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-12x-0)) ([second half](https://www.edx.org/course/beauty-joy-computing-apr-cs-principles-uc-berkeleyx-bjc-34x-0))
       - [tutorial](https://bjc.edc.org/bjc-r/course/bjc4nyc.html)
       - [playlist](https://www.youtube.com/playlist?list=PLA4F0F0CA4A3EE7F4)
       - [labs](https://www.youtube.com/playlist?list=PLAE5AE3CD22628741)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/6)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/23)
   - ### [Scratch](https://beta.scratch.mit.edu/)
     - #### Programming in Scratch - Harvey Mudd (mooc)
       - [edx](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
@@ -125,7 +125,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [udemy](https://www.udemy.com/scratch-game-programming/?couponCode=INVENT_WITH_SCRATCH)
     - #### Scratch Programming Playground - Al Sweigart (OER)
       - [site](https://inventwithscratch.com/)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/7)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/24)
 
   - ### [PureData](https://puredata.info/)
       - #### PURE DATA - cheetomoskeeto (youtube)
@@ -138,7 +138,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
         - [pdf](http://dm.ncl.ac.uk/courseblog/files/2011/02/pd_intro.pdf)
       - #### Programming Electronic Music in Pd - Johannes Kreidler (OER)
         - [pdf](http://www.pd-tutorial.com/)
-      - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/8)
+      - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/25)
   - ### [Sonic Pi](https://sonic-pi.net/)
       - #### Introduction to Sonic Pi - Dave Conservatoire (youtube)
         - [playlist](https://www.youtube.com/watch?v=4BPKaHV7Q5U&list=PLaitaNxyd8SHvTQjRGnMdKLsARXW7iYyp)
@@ -149,7 +149,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - #### Creative programming workshop with Sonic Pi - mehackit
         - [tutorial](http://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html)
       - #### Sonic Pi Tutorial [tutorial](https://sonic-pi.net/tutorial.html)
-      - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/9)
+      - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/26)
   - ### [Processing](https://processing.org/)
       - #### Introduction to Processing - Raspberry Pi Foundation
         - [site](https://projects.raspberrypi.org/en/projects/introduction-to-processing)
@@ -165,13 +165,13 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
         - [playlist](https://www.youtube.com/user/shiffman/playlists?view=50&shelf_id=14&sort=dd)
       - #### Coding Challenges (p5.js) - shiffman (youtube)
         - [playlist](https://www.youtube.com/watch?v=17WoOqgXsRM&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH)
-      - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/10)
+      - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/27)
         
 - ## Liberal Arts Break
   - ### The Iliad - Homer (public domain)
     - [site](http://www.gutenberg.org/ebooks/2199)
     - [amazon](https://www.amazon.com/Iliad-Homer/dp/0226469409)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/11)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/28)
       
   
 - ## Beginning Languages
@@ -193,7 +193,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [exercises](https://www.w3resource.com/c-programming-exercises/)
     - #### Modern C - Jens Gustedt
       - [pdf](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/12)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/29)
       
   - ### JavaScript
     - #### Khan Academy JS Tutorials
@@ -210,7 +210,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [site](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript-from-es2015-to-es2018)
     - #### Understanding ECMAScript 6 - Nicholas C. Zakas
       - [site](https://github.com/nzakas/understandinges6)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/13)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/30)
     
   
   - ### Python
@@ -232,7 +232,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [site](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/)
     - #### Introduction to Programming in Python - Robert Sedgewick, Kevin Wayne (OER)
       - [site](https://introcs.cs.princeton.edu/python/home/)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/14)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/31)
   
   - ### Java
     - #### Java Programming for Kids - Yakov Fain (OER)
@@ -253,7 +253,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [site](https://introcs.cs.princeton.edu/java/home/)
     - #### What's New in Java 8 - Adam L. Davis (OER)
       - [site](https://leanpub.com/whatsnewinjava8/read)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/15)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/32)
   
   - ### HTML/CSS
     - #### Khan Academy HTML Tutorials
@@ -280,7 +280,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [site](http://diveinto.html5doctor.com/)
     - #### JQuery Online Tutorial - TutorialsPoint India (YouTube)
       - [playlist](https://www.youtube.com/watch?v=JMn75rtpiOI&list=PLWPirh4EWFpG4OHd7GiiWs1F8jRfybPU6)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/16)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/33)
     
 
   - ### C++
@@ -301,7 +301,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [pdf](http://web.stanford.edu/class/cs106x/res/reader/CS106BX-Reader.pdf)
     - #### OO Programming in C++ - Summer 2013 - ITU (OCW)
       - [playlist](https://www.youtube.com/playlist?list=PLMMZ6bhZ4H68r2YVCy111_uIxytu3_HNi)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/17)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/34)
   
   - ### Language Agnostic
     - #### Programming Fundamentals: A Modular Structured Approach - Kenneth Leroy Busbee and Dave Braunschweig (OER)
@@ -314,7 +314,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
 - ## Liberal Arts Break
   - ### The Origin of Species by Means of Natural Selection - Charles Darwin (public domain)
     - [site](https://www.gutenberg.org/ebooks/2009)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/18)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/35)
 
 - ## Computer Architecture/Organization/Assembly
   - ### Introduction to Digital Electronics - Neso Academy
@@ -337,7 +337,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [site](https://www.nand2tetris.org/)
     - [coursera1](https://www.nand2tetris.org/) [coursera2](https://www.coursera.org/learn/nand2tetris2)
     - [pdf](https://archive.org/details/TheElementsOfComputingSystems_201408)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/19)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/36)
   
     
 - ## Discrete Mathematics/Structures
@@ -369,7 +369,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [pdf](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
   - ### Graph Theory - TutorialsPoint (YouTube)
     - [playlist](https://www.youtube.com/watch?v=RlHt1ioLOto&index=1&list=PLWPirh4EWFpFdWkNxbHeM7Sn5R3egtKpZ)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/20)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/37)
   
 - ## Algorithms
   - ### Algorithms: Design and Analysis - Stanford (OCW)
@@ -391,7 +391,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [textbook](https://algs4.cs.princeton.edu/home/)
   - ### Algorithms - S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani (OER)
     - [pdf](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/21)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/38)
   
 - ## Data Structures
   - ### Notes on Data Structures and Programming Techniques - Yale (OER)
@@ -409,7 +409,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [site](https://digitalcommons.plymouth.edu/oer/12/)
   - ### Introduction to Algorithms - MIT (OCW)
     - [site](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/22)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/39)
   
 - ## Liberal Arts Break
   
@@ -433,7 +433,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [site](https://www.postgresql.org/docs/current/static/tutorial.html)
   - ### PostgreSQL Tutorial
     - [site](http://www.postgresqltutorial.com/)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/23)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/40)
 
  
 - ## Intermediate Programming
@@ -456,7 +456,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [edX](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
     - #### Server-side Development with NodeJS, Express and MongoDB - The Hong Kong University of Science and Technology (mooc)
       - [coursera](https://www.coursera.org/learn/server-side-nodejs)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/24)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/41)
   - ### Go
     - #### Go Bootcamp: Everything You Need to Know to Get Started with Go - Matt Aimonetti (OER)
       - [site](http://www.golangbootcamp.com/)
@@ -474,7 +474,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [site](https://codegangsta.gitbooks.io/building-web-apps-with-go/)
     - #### Web apps in Go, the anti textbook - Suraj Patil  (OER)
       - [site](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/25)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/42)
 
   - ### Clojure
     - #### Clojure for the Brave and True - Daniel Higginbotham (OER)
@@ -489,7 +489,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [site](http://www.sicpdistilled.com/)
     - #### ClojureScript Unraveled - Andrey Antukh, Alejandro Gómez (OER)
       - [site](https://funcool.github.io/clojurescript-unraveled/)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/26)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/43)
       
  
 - ## Linear Algebra
@@ -505,7 +505,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [site](http://joshua.smcvt.edu/linearalgebra/)
   - ### Linear Algebra - MIT (OCW)
     - [site](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/27)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/44)
  
 - ## Networks
   - ### Introduction to HTTP - Launch School (OER)
@@ -520,7 +520,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [site](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
   - ### Introduction to Data Communications - Steven Gordon (OCW)
     - [site](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/28)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/45)
   
  
 - ## Operating Systems
@@ -540,12 +540,12 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [github](https://github.com/s-matyukevich/raspberry-pi-os)
   - ### Building an Operating System for the Raspberry Pi - jsandler18 (OSS)
     - [github](https://jsandler18.github.io/)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/29)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/46)
     
 - ## Liberal Arts Break
   - ### A Doll's House - Henrik Ibsen (public domain)
     - [site](http://www.gutenberg.org/ebooks/2542)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/30)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/47)
 
 - ## Software Design/Development
   - ### Software Architecture & Design - Georgia Tech (mooc)
@@ -554,7 +554,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - edx [part1](https://www.edx.org/course/software-construction-java-mitx-6-005-1x) [part2](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x)
   - ### CS3: Design in Computing - UNSW (OCW)
     - [playlist](https://www.youtube.com/watch?v=coserN4FO3g&list=PLC3E93EF6B9645D9D)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/31)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/48)
    
 - ## Programming Languages
   - ### Principles of Programming Languages - IIT Delhi (OCW)
@@ -570,7 +570,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
   - ### Practical Foundations for Programming Languages - Robert Harper (OER)
     - [pdf](https://thelackthereof.org/docs/library/book.pdf)
     - [course notes](https://www.cs.cmu.edu/~rwh/courses/ppl/)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/32)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/49)
 
 - ## Compilers
   - ### Compilers - Stanford (OCW)
@@ -582,7 +582,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [pdf](http://www.stack.nl/~marcov/compiler.pdf)
   - ### Compiler Design - TutorialsPoint India (YouTube)
     - [playlist](https://www.youtube.com/watch?v=0hU5-aLtaxo&list=PLWPirh4EWFpGa0qAEcNGJo2HSRC5_KMT6)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/33)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/50)
   
 
 - ## AI
@@ -597,7 +597,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [site](https://learn.saylor.org/course/view.php?id=96)
   - ### CS408: Advanced Artificial Intelligence - Saylor (OER)
     - [site](https://learn.saylor.org/course/view.php?id=81)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/34)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/51)
    
 
 - ## Computability
@@ -615,7 +615,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [site](http://cs.brown.edu/people/jsavage/book/)
   - ### Computer Science - Theory of Computation - IIT Kanpur (OCW)
     - [playlist](https://www.youtube.com/playlist?list=PLbMVogVj5nJSd25WnSU144ZyGmsqjuKr3)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/35)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/52)
  
 - ## Machine Learning
   - ### Machine Learning - Stanford University (mooc)
@@ -626,7 +626,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [pdf](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf)
   - ### A Brief Introduction to Machine Learning for Engineers - Osvaldo Simeone (OER)
     - [pdf](https://arxiv.org/pdf/1709.02840.pdf)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/36)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/53)
 
 - ## Software Engineering
   - ### Software Engineering: Introduction - The University of British Columbia (mooc)
@@ -647,12 +647,13 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [site](https://digitalcommons.plymouth.edu/oer/11/)
   - ### Computer Science 169 - Berkeley (OCW)
     - [playlist](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAS_kCeleydK6mDc0kCbdhU)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/37)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/54)
     
 - ## Liberal Arts Break
   - ### Hung Lou Meng, or, the Dream of the Red Chamber, a Chinese Novel, Book I by Cao Xueqin (public domain)
     - [site](http://www.gutenberg.org/ebooks/9603)
     - [amazon (recommended)](https://read.amazon.com/kp/embed?asin=B002RI9D1K&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_bXzCBbHW6NMVQ)
+    - [Discussion](https://github.com/HolmSchool/holm-school-site/issues/55)
 
 - ## Security
   - ### The Cryptoparty Handbook (OER)
@@ -669,7 +670,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [site](https://www.cl.cam.ac.uk/~rja14/book.html)
   - ### Security and Cryptography 2012 - Thammasat University (OCW)
     - [playlist](https://www.youtube.com/playlist?list=PLvifRcqOOwF-b74gWV5TpyMFFs2dVlqTt)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/39)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/56)
     
 - ## Systems Programming
   - ### Computation Structures - MIT (mooc)
@@ -678,7 +679,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
     - [site](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/index.htm)
   - ### The Hardware/Software Interface Class - Luis Ceze and Gaetano Borriello (mooc)
     - [playlist](https://www.youtube.com/playlist?list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/40)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/57)
 
 - ## Web Development
   - ### Language Agnostic
@@ -704,7 +705,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [playlist](https://www.youtube.com/watch?v=jDdPwSh92mw&list=PLWPirh4EWFpHCGrvE6t5vsYBRS1SuivDm)
     - #### The Complete Redux Book - Ilya Gelman, Boris Dinkevich (OER)
       - [site](https://leanpub.com/redux-book)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/41)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/58)
 
   - ### Angular
     - #### Angular Tutorial - angular.io (OER)
@@ -717,11 +718,11 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [playlist](https://www.youtube.com/watch?v=bJ319HJCUnM&list=PLWPirh4EWFpHr-tUELXPm6iUOgRj-uRsI)
     - #### Angular 5 Companion Guide - John Niedzwiecki II (OER)
       - [site](https://www.packtpub.com/free-ebook/angular-5-companion-guide)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/42)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/59)
   - ### Vue
     - #### The Vue Handbook - Flavio Copes (OER)
       - [site](https://leanpub.com/thevuehandbook)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/43)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/60)
   - ### Django
     - #### Django Tutorial (OER)
       - [site](https://docs.djangoproject.com/en/dev/intro/)
@@ -737,7 +738,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [playlist](https://www.youtube.com/watch?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&v=UmljXZIypDc)
     - #### Treehouse Live Coding - Django Feelings App (youtube)
       - [playlist](https://www.google.com/search?q=treehouse+live+coding+django&tbm=vid)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/44)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/61)
 
 
 - ## Mobile Development
@@ -754,7 +755,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [pdf](http://users.umiacs.umd.edu/~hal/docs/daume02yaht.pdf)
     - #### Introduction to Functional Programming - Delft University of Technology (MOOC)
       - [edx](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/45)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/62)
   - ### Scheme
     - #### How to Design Programs - Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi (OER)
       - [site](https://htdp.org/)
@@ -766,13 +767,13 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
       - [site](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
     - #### The Scheme Programming Language - R. Kent Dybvig (OER)
       - [site](https://www.scheme.com/tspl4/)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/46)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/63)
   - ### Rust
     - #### Rust by Example (OER)
       - [site](https://doc.rust-lang.org/stable/rust-by-example/)
     - #### The Rust Programming Language - Nicholas Matsakis, Aaron Turon (OER)
       - [site](https://doc.rust-lang.org/book/2018-edition/index.html)
-    - #### [Discussion](https://github.com/HolmSchool/curriculum/issues/47)
+    - #### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/64)
 
 - ## Big Data Analysis
 
@@ -783,7 +784,7 @@ Discussion for curriculum, classes, OER books, open courseware, and youtube tuto
 - ## Liberal Arts Break
   - ### A Vindication of the Rights of Woman - Mary Wollstonecraft (public domain)
     - [site](http://www.gutenberg.org/ebooks/3420)
-  - ### [Discussion](https://github.com/HolmSchool/curriculum/issues/48)
+  - ### [Discussion](https://github.com/HolmSchool/holm-school-site/issues/65)
 
 - ## First Year Equivalent of Science and Mathematics
   - ### OpenStax.org (OER)
