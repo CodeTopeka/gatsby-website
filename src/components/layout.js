@@ -86,7 +86,7 @@ export default ({ children }) => (
           <meta name="twitter:site" content="@HolmSchool" />
           <meta name="og:type" content="website" />
           <meta name="og:site_name" content="Holm School" />
-          <meta name="description" content="A Free OER and OCW-based Computer Science Education" />
+          <meta name="og:description" content="A Free OER and OpenCourseWare Computer Science Education For Financial Independence / Early Retirement" />
           <html lang="en" />
           <link rel="icon" 
           type="image/png" 
