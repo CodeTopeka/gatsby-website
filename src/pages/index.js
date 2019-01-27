@@ -86,16 +86,17 @@ export default ({ data }) => {
           <div className={css`
             text-align: center;
           `}>
-            <span className={css`
+            <h1 className={css`
               font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
               font-size: 2em;
               color: #84d1a6;
               vertical-align: top;
               margin: 0 auto;
             `}>
-              Holm School
-            </span>
+              Holm School: An OER and OCW-based Free Computer Science Education
+            </h1>
           </div>
+          
           
           <h2>More With Less: Open Educational Resources</h2>
           <p>

@@ -20,6 +20,9 @@ export default ({ data, pageContext }) => {
         padding: 0 10px;
       `}>
         <h1>{post.frontmatter.title}</h1>
+        <h2 className={css`
+              color: #bbb;
+        `}>{post.frontmatter.date}</h2>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr/>
         <div className={css`display: inline-block;width:100%;`}>

@@ -82,10 +82,11 @@ export default ({ children }) => (
       <div
         className={siteWideCSS}
       >
-        <Helmet defaultTitle={`Holm School`} titleTemplate={`%s | Holm School`}>
+        <Helmet defaultTitle={`Holm School: Keep Free Computer Science Education Weird`} titleTemplate={`%s | Holm School`}>
           <meta name="twitter:site" content="@HolmSchool" />
           <meta name="og:type" content="website" />
           <meta name="og:site_name" content="Holm School" />
+          <meta name="description" content="A Free OER and OCW-based Computer Science Education" />
           <html lang="en" />
           <link rel="icon" 
           type="image/png" 
