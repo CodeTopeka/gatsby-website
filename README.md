@@ -1,4 +1,4 @@
 # to run
 
-npm install
-gatsby develop
+```npm install```
+```gatsby develop```
