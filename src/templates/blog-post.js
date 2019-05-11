@@ -53,6 +53,7 @@ export const query = graphql`
       frontmatter {
         title
         ghissue
+        date
       }
     }
   }
