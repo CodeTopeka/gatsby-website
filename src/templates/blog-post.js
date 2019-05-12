@@ -19,6 +19,7 @@ export default ({ data, pageContext }) => {
         max-width: 800px;
         padding: 0 10px;
       `}>
+        <h4><Link to={`/blog/`}>&lt;Back to blog</Link></h4>
         <h1>{post.frontmatter.title}</h1>
         <h2 className={css`
               color: #bbb;
