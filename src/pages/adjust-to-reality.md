@@ -58,3 +58,4 @@ Liberal arts degrees, with their $60,000-$240,000 pricetags, are a shiny product
 
 Praeger U is trash and propaganda and I wouldn't wish anyone to experience even two of their videos, but this one from JBP is spot on. (Don't @ me, I'm a JBP fan; sorry if we can't be friends anymore because of that...):
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LquIQisaZFU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8gBVrJXnqU0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
