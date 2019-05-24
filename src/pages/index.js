@@ -93,7 +93,7 @@ export default ({ data }) => {
               vertical-align: top;
               margin: 0 auto;
             `}>
-              Holm School: An Free OER and OpenCourseWare Computer Science Education For Financial Independence / Early Retirement
+              Holm School: A Free OER and OpenCourseWare Computer Science Education For Financial Independence / Early Retirement
             </h1>
           </div>
 
