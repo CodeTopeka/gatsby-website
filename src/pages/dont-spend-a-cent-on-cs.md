@@ -42,3 +42,5 @@ Good luck in your crafting of your future. Being a scientist is truly rewarding 
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RRd-zIeL5Bk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Addendum: Just want to post a note about this Atlantic article: ["The Books of College Libraries Are Turning Into Wallpaper"](https://www.theatlantic.com/ideas/archive/2019/05/college-students-arent-checking-out-books/590305/)
