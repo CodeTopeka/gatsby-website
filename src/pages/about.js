@@ -217,6 +217,10 @@ export default ({ data }) => (
 
       <p>More likely your public library will subscribe to Lynda. Lynda rocks! They have an extensive computer science section of tutorial videos. You can take many classes on most mainstream programming languages, and Lynda excels at taking you from zero experience to enough knowledge of a programming language to be able to study it at a more advanced level on your own through OER. There are more Lynda tutorials than there are hours in the day, so you'll never run out of computer science topics to learn about. My public library's dual offering of Lynda and Treehouse subscriptions keep me busy in the four hours or so I have to study after work. My job, for example, offers a free Lynda subscription to all employees! I think I have three valid Lynda subscriptions at the moment.</p>
 
+      <p><strong>Safari Books Online</strong></p>
+
+      <p>Some public libraries now subscribe to Safari Books on behalf of their patrons. This is a deal worth $200 a year. Safari has most modern programming books and gives you an entire library of up to date programming books from O'Reilly, Packt, etc. While my public library does this, if I took an hour trip to another public library in Kansas, I could get a library card that I could then use in the KC, Missouri public library to have access to their Safari subscription. I might just take the daytrip and do this. If you can hack a way to get access to Safari Books from a library nearby (I know Seattle Public Library has a subscription), do it! What a value and opportunity!</p>
+
       <p><strong>V. Free Online Services</strong></p>
 
       <p><strong>Introduction</strong></p>
