@@ -4,7 +4,7 @@ title: "#96 - If You Are Paying to Study Offline, You Are Probably Getting Rippe
 ghissue: 85
 ---
 
-[#98 of 100 Reasons Not To Go To College to Study Computer Science](https://holm.school/new-blog-series/)
+[#96 of 100 Reasons Not To Go To College to Study Computer Science](https://holm.school/new-blog-series/)
 
 
 Full ride scholarships are pretty rad, so if you get one anywhere I’d suggest you take it regardless of perceived prestige of the college. But if you aren’t lucky enough to get a full ride scholarship, I have to present the conclusion that if you are paying money to study computer science, you are probably getting ripped off. I consider “money” anything more than $300 a year. And if you are paying money for paper books, you are also probably getting ripped off.
