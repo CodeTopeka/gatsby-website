@@ -1,5 +1,5 @@
 ---
-date: "2019-06-25"
+date: "2019-07-14"
 title: "#92 - Literacy is More Important than Conferences"
 ghissue: 91
 ---
