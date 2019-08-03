@@ -4,7 +4,6 @@ title: "#93 - You Should Insist On Nonpaper Books"
 ghissue: 90
 ---
 
-
 [#93 of 100 Reasons Not To Go To College to Study Computer Science](https://holm.school/new-blog-series/)
 
 Today I learned about Perlego books just by googling "Spotify for Books." I'm pretty sure I search this every 3 months looking for the latest news, but for some reason had never discovered them. After just a brief excursion into their webpage, I am feeling confident about them. They basically are brand new, having just 600 followers on Twitter, but their pricing model is awesome: 12 pounds a month. This is about $185 a year. This is more expensive than Spotify, but for an initial offering without any market competitors at the moment, this price point is awesome! Unfortunately it’s only available in the EU, but when it comes to America I will most definitely be subscribing. I have longed to stop using Library Genesis, but without any subscription service for books that is complete, I am left with the option of paying Amazon usurious prices for kindle books. I refuse to do that, because single-purchase ebooks is a horrible model when there is Library Genesis and plenty of free CS OER, not to mention free subscriptions to Lynda and Treehouse at my public library. Some public libraries are even subscribing to SafariBooks, and maybe one day will subscribe to Perlego!
