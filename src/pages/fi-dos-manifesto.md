@@ -8,7 +8,7 @@ I've been writing a lot of manifestos lately, and I decided there is one more to
 
 It stands for "Financial Independence, Do Open Source." I can summarize it in just a few lines:
 
-Be frugal and save in index funds wisely so that you can become financially independent early in life. Upon become FI, Do Open Source.
+Be frugal and save in index funds wisely so that you can become financially independent early in life. Upon becoming FI, Do Open Source.
 
 I think this is so instrumental to the FI computer science scene because the founding fathers of FI, notably Mr. Money Mustache and JL Collins, have both never paywalled their works (one an extensive blog, one a stock series). They are, by all means, "open source." You don't have to pay to read MMM, neither A Simple Path to Wealth.
 
