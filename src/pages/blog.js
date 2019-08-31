@@ -5,12 +5,11 @@ import Layout from "../components/layout"
 import { css } from "emotion"
 import { rhythm } from "../utils/typography"
 
-import birger_sandzen from "../img/smoky_river.jpg" 
 
 export default ({ data }) => (
   <Layout>
     <div className="bigimages">
-      <img src={birger_sandzen} width="100%" alt="Painting 'Smoky River, Kansas' by Birger Sandzen, 1926"/>
+      {/* <img src={birger_sandzen} width="100%" alt="Painting 'Smoky River, Kansas' by Birger Sandzen, 1926"/> */}
     </div>
     
     <div className={css`
