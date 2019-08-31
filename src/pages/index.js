@@ -5,7 +5,7 @@
 
 import React from "react"
 import { css } from "react-emotion"
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 
 
