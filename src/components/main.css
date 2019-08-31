@@ -1,7 +1,7 @@
 .logo-text {
     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
     font-size: 3em;
-    color: #84d1a6;
+    color: #12c92e;
     transition: 150ms;
     transition-timing-function: ease-in-out;
 }
@@ -23,7 +23,7 @@ a {
 #facebook-svg, #twitter-svg, #github-svg  {
     transition: 200ms;
     transition-timing-function: ease-in-out;
-    fill: #84d1a6 !important;
+    fill: #12c92e !important;
     width: 35px;
     height: 35px;
 }

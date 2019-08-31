@@ -34,24 +34,27 @@ import Helmet from "react-helmet"
 
 import logo from "../img/square_logo_small.png"
 import public_domain_small from "../img/public_domain_small.png"
+import slacksvg from "../img/slack.svg"
+import githubsvg from "../img/github.svg"
+import fbsvg from "../img/fb.svg"
 import favicon from "../img/favicon.ico"
 import siteWideCSS from "./main.css"
 
 const navItem = css`
   margin-right: 15px;
   text-decoration: none;
-  color: #84d1a6;
+  color: #12c92e;
   
   &:hover {
     text-decoration: underline;
-    text-decoration-color: #84d1a6;
+    text-decoration-color: #12c92e;
   }
 `
 
 const svgNav = css`
   transition: 200ms;
   transition-timing-function: ease-in-out;
-  fill: #84d1a6 !important;
+  fill: #12c92e !important;
   width: 26px;
   height: 26px;
 
@@ -131,7 +134,7 @@ export default ({ children }) => (
               <span className={css`
                 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
                 font-size: 2em;
-                color: #84d1a6;
+                color: #12c92e;
                 transition: 150ms;
                 transition-timing-function: ease-in-out;
                 vertical-align: top;
@@ -200,7 +203,7 @@ export default ({ children }) => (
                 
               `, navItem)}
             >
-              <img src='./img/slack.svg' className={svgNav}/>
+              <img src={slacksvg} className={svgNav}/>
             </a>
             <a
               href={`https://fb.me/codetopekaorg`}
@@ -208,7 +211,7 @@ export default ({ children }) => (
 
               `, navItem)}
             >
-              <img className={svgNav} src='./img/fb.svg' />
+              <img src={fbsvg} className={svgNav} />
             </a>
             <a
               href={`https://github.com/CodeTopeka`}
@@ -216,7 +219,7 @@ export default ({ children }) => (
                 
               `, navItem)}
             >
-              <img src='./img/github.svg' className={svgNav}/>
+              <img src={githubsvg} className={svgNav}/>
             </a>
           </div>
         </div>
@@ -234,7 +237,7 @@ export default ({ children }) => (
             <span className={css`
                 font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
                 font-size: 1.0em;
-                color: #84d1a6;
+                color: #12c92e;
                 transition: 150ms;
                 transition-timing-function: ease-in-out;
                 vertical-align: top;
