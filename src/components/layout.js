@@ -203,7 +203,7 @@ export default ({ children }) => (
                 
               `, navItem)}
             >
-              <img src={slacksvg} className={svgNav}/>
+              <img id="slack-svg" src={slacksvg} className={svgNav}/>
             </a>
             <a
               href={`https://fb.me/codetopekaorg`}
@@ -211,7 +211,7 @@ export default ({ children }) => (
 
               `, navItem)}
             >
-              <img src={fbsvg} className={svgNav} />
+              <img id="fb-svg" src={fbsvg} className={svgNav} />
             </a>
             <a
               href={`https://github.com/CodeTopeka`}
@@ -219,7 +219,7 @@ export default ({ children }) => (
                 
               `, navItem)}
             >
-              <img src={githubsvg} className={svgNav}/>
+              <img id="github-svg" src={githubsvg} className={svgNav}/>
             </a>
           </div>
         </div>
