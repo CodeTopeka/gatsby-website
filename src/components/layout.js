@@ -200,7 +200,7 @@ export default ({ children }) => (
                 
               `, navItem)}
             >
-              <img src='../img/slack.svg' className={svgNav}/>
+              <img src='./img/slack.svg' className={svgNav}/>
             </a>
             <a
               href={`https://fb.me/codetopekaorg`}
@@ -208,15 +208,15 @@ export default ({ children }) => (
 
               `, navItem)}
             >
-              <img className={svgNav} src='../img/fb.svg' />
+              <img className={svgNav} src='./img/fb.svg' />
             </a>
             <a
-              href={`https://github.com/HolmSchool`}
+              href={`https://github.com/CodeTopeka`}
               className={cx(css`
                 
               `, navItem)}
             >
-              <img src='../img/github.svg' className={svgNav}/>
+              <img src='./img/github.svg' className={svgNav}/>
             </a>
           </div>
         </div>

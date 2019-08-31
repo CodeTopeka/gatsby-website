@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Holm School`,
+    title: `Code Topeka`,
   },
   plugins: [
     {

@@ -23,7 +23,7 @@ export var CurrentPage = 0;
 
 export function DoGithubComments(comment_id, page_id)
 {
-    var repo_name = "HolmSchool/holm-school-site";
+    var repo_name = "CodeTopeka/gatsby-website";
 
     if (page_id === undefined)
         page_id = 1;
@@ -32,7 +32,7 @@ export function DoGithubComments(comment_id, page_id)
     //var api_issue_url = api_url + "/issues/" + comment_id;
     var api_comments_url = api_url + "/issues/" + comment_id + "/comments?page=" + page_id;
 
-    var url = "https://github.com/HolmSchool/holm-school-site/issues/" + comment_id;
+    var url = "https://github.com/CodeTopeka/gatsby-website/issues/" + comment_id;
     if(typeof document !== "undefined") {
         $(document).ready(function ()
         {

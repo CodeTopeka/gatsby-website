@@ -45,21 +45,21 @@ export default ({ data }) => {
               <Link to={`https://join.slack.com/t/code-topeka/shared_invite/enQtNzM3MDI3MTg1OTExLWIyNjJhYzMzMzNiZDg3ODAzODlkNDliYzE2NjA3Y2E0NzU4ZjU5ZWY5NTFjMGUyNjhhMDM4MmQ1NTU0Y2ZjMmU`} className={css`
                 text-decoration: none;            
               `}>
-                <img className="frontpage-logos" src="../img/slack.svg"/>Join Our Slack Channel
+                <img className="frontpage-logos" src="./img/slack.svg"/>Join Our Slack Channel
                 </Link>
             </p>
             <p>
               <Link to={`https://fb.me/codetopekaorg`} className={css`
                     text-decoration: none;            
                   `}>
-                <img className="frontpage-logos" src="../img/fb.svg"/>Join Our Facebook Group
+                <img className="frontpage-logos" src="./img/fb.svg"/>Join Our Facebook Group
               </Link>
             </p>
             <p>
               <Link to={`https://github.com/codetopeka`} className={css`
                     text-decoration: none;            
                   `}>
-                <img className="frontpage-logos" src="../img/github.svg"/>Participate in our Github Repos
+                <img className="frontpage-logos" src="./img/github.svg"/>Participate in our Github Repos
               </Link>
             </p>
           </div>
