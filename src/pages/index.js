@@ -37,7 +37,7 @@ export default ({ data }) => {
           </div>
 
           
-          <h2 className={css`text-align: center;`}>A Social Organization for Topeka, Kansas area Developers and Programmers</h2>
+          <h2 className={css`text-align: center;`}>A Social Organization and Club for Topeka, Kansas area Developers, Programmers, and Computer Scientists</h2>
           
           <div>
             <p>
