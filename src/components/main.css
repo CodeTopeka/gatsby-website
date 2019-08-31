@@ -20,7 +20,7 @@ a {
     font-family: 'Philosopher', sans-serif;
 }
 
-#facebook-svg, #twitter-svg, #github-svg  {
+#slack-svg, #fb-svg, #github-svg  {
     transition: 200ms;
     transition-timing-function: ease-in-out;
     fill: #12c92e !important;
@@ -28,8 +28,8 @@ a {
     height: 35px;
 }
 
-#twitter-svg:hover, #facebook-svg:hover, #github-svg:hover {
-    fill: #667c7c !important;
+#slack-svg:hover, #fb-svg:hover, #github-svg:hover {
+    fill: #325d3f !important;
 }
 
 .nav-item {

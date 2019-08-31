@@ -41,25 +41,25 @@ export default ({ data }) => {
           
           <div>
             <p>
-              <Link to={`https://join.slack.com/t/code-topeka/shared_invite/enQtNzM3MDI3MTg1OTExLWIyNjJhYzMzMzNiZDg3ODAzODlkNDliYzE2NjA3Y2E0NzU4ZjU5ZWY5NTFjMGUyNjhhMDM4MmQ1NTU0Y2ZjMmU`} className={css`
+              <a href={`https://join.slack.com/t/code-topeka/shared_invite/enQtNzM3MDI3MTg1OTExLWIyNjJhYzMzMzNiZDg3ODAzODlkNDliYzE2NjA3Y2E0NzU4ZjU5ZWY5NTFjMGUyNjhhMDM4MmQ1NTU0Y2ZjMmU`} className={css`
                 text-decoration: none;            
               `}>
-                <img className="frontpage-logos" src={slacksvg} />Join Our Slack Channel
-                </Link>
+                <img id="slack-svg" className="frontpage-logos" src={slacksvg} />Join Our Slack Channel
+                </a>
             </p>
             <p>
-              <Link to={`https://fb.me/codetopekaorg`} className={css`
+              <a href={`https://fb.me/codetopekaorg`} className={css`
                     text-decoration: none;            
                   `}>
-                <img className="frontpage-logos" src={fbsvg} />Join Our Facebook Group
-              </Link>
+                <img id="fb-svg" className="frontpage-logos" src={fbsvg} />Join Our Facebook Group
+              </a>
             </p>
             <p>
-              <Link to={`https://github.com/codetopeka`} className={css`
+              <a href={`https://github.com/codetopeka`} className={css`
                     text-decoration: none;            
                   `}>
-                <img className="frontpage-logos" src={githubsvg} />Participate in our Github Repos
-              </Link>
+                <img id="github-svg" className="frontpage-logos" src={githubsvg} />Participate in our Github Repos
+              </a>
             </p>
           </div>
         </div>
