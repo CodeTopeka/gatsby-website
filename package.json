@@ -1,6 +1,6 @@
 {
-  "name": "holm-school-site",
-  "description": "Holm.School Website",
+  "name": "gatsby-website",
+  "description": "CodeTopeka.org Website",
   "license": "Pubic Domain",
   "scripts": {
     "develop": "gatsby develop",
