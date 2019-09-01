@@ -68,6 +68,7 @@ export default ({ data }) => {
           <div className={css`text-align: center;`}>
             <h2>Code Topeka Group Events:</h2>
             <p>Our next gathering is at: TBD on TBA</p>
+            <p>Use our <a href={`https://code-topeka.slack.com`}>Slack's #events channel</a> to get real time updates on future events!</p>
           </div>
           <hr />
           <div className={css`text-align: center;`}>
