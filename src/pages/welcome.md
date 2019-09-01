@@ -4,4 +4,4 @@ title: "Welcome to Code Topeka!"
 ghissue: 1
 ---
 
-Welcome to Code Topeka's blog!
+Welcome to Code Topeka's blog! Introduce yourself to the other members of the club by posting a reply about yourself in the Github repo's issue for this blogpost by using the link below.
