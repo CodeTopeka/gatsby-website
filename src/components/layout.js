@@ -52,8 +52,8 @@ const svgNav = css`
   transition: 200ms;
   transition-timing-function: ease-in-out;
   fill: #12c92e !important;
-  width: 26px;
-  height: 26px;
+  width: 35px;
+  height: 35px;
 
   &:hover {
     fill: #667c7c !important;
