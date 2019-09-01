@@ -11,7 +11,7 @@ import vinewood from "../img/vinewood.jpg"
 export default ({ data }) => (
   <Layout>
     <div className="bigimages">
-      <img src={club} width="100%" alt="Vinewood Park, Topeka"/>
+      <img src={vinewood} width="100%" alt="Vinewood Park, Topeka"/>
     </div>
     
     <div className={css`
