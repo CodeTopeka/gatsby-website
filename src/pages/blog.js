@@ -5,13 +5,13 @@ import Layout from "../components/layout"
 import { css } from "emotion"
 import { rhythm } from "../utils/typography"
 
-import vinewood from "../img/vinewood.jpg"
+import gagepark from "../img/gagepk.jpg"
 
 
 export default ({ data }) => (
   <Layout>
     <div className="bigimages">
-      <img src={vinewood} width="100%" alt="Vinewood Park, Topeka"/>
+      <img src={gagepark} width="100%" alt="Reinisch Memorial Rose Garden, Gage Park, Topeka"/>
     </div>
     
     <div className={css`
