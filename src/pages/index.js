@@ -15,7 +15,7 @@ export default ({ data }) => {
     <Layout>
       <div>
         <div className="bigimages">
-          <img src={observatory} alt="Observatory, Washburn College, Topeka" width="100%" />
+          <img className="bigimages-pic" src={observatory} alt="Observatory, Washburn College, Topeka" width="100%" />
         </div>
         <div className={css`
           max-width: 800px;

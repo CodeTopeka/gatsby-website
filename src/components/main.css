@@ -39,6 +39,10 @@ a {
 .bigimages {
     margin: 0 auto;
     max-width: 800px;
+    
+}
+
+.bigimages-pic {
     border: 7px solid #12c92e;
 }
 

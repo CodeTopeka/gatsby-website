@@ -11,7 +11,7 @@ import gagepark from "../img/gagepk.jpg"
 export default ({ data }) => (
   <Layout>
     <div className="bigimages">
-      <img src={gagepark} width="100%" alt="Reinisch Memorial Rose Garden, Gage Park, Topeka"/>
+      <img className="bigimages-pic" src={gagepark} width="100%" alt="Reinisch Memorial Rose Garden, Gage Park, Topeka"/>
     </div>
     
     <div className={css`
