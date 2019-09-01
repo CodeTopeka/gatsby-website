@@ -5,11 +5,13 @@ import Layout from "../components/layout"
 import { css } from "emotion"
 import { rhythm } from "../utils/typography"
 
+import vinewood from "../img/vinewood.jpg"
+
 
 export default ({ data }) => (
   <Layout>
     <div className="bigimages">
-      {/* <img src={birger_sandzen} width="100%" alt="Painting 'Smoky River, Kansas' by Birger Sandzen, 1926"/> */}
+      <img src={club} width="100%" alt="Vinewood Park, Topeka"/>
     </div>
     
     <div className={css`

@@ -6,15 +6,16 @@ import Layout from "../components/layout"
 import slacksvg from "../img/slack.svg"
 import githubsvg from "../img/github.svg"
 import fbsvg from "../img/fb.svg"
+import observatory from "../img/observ.jpg"
 
 
 export default ({ data }) => {
   return (
     <Layout>
       <div>
-        {/* <div className="bigimages">
-          <img src={vilhelm_hammershoi_1} alt="Painting 'Interior in Strandgade, Sunlight on the Floor' by Vilhelm Hammershøi, 1901" width="100%"/>
-        </div> */}
+        <div className="bigimages">
+          <img src={observatory} alt="Observatory, Washburn College, Topeka" width="100%"/>
+        </div>
         <div className={css`
           max-width: 800px;
           margin: 0 auto;

@@ -3,11 +3,13 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import { css } from "emotion"
 
+import gagepark from "../img/gagepk.jpg"
+
 
 export default ({ data }) => (
   <Layout>
     <div className="bigimages">
-      {/* <img src={vilhelm_hammershoi_3} width="100%" alt="Painting 'The Royal Palace Church in Copenhagen' by Vilhelm Hammershøi, 1910"/> */}
+      <img src={gagepark} width="100%" alt="Reinisch Memorial Rose Garden, Gage Park, Topeka"/>
     </div>
     <div className={css`
       margin: 0 auto;
