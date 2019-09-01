@@ -2,6 +2,7 @@ import React from "react"
 import { css } from "react-emotion"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
+import { rhythm } from "../utils/typography"
 
 import slacksvg from "../img/slack.svg"
 import githubsvg from "../img/github.svg"
