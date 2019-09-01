@@ -20,7 +20,8 @@ export default ({ data, pageContext }) => {
         padding: 0 10px;
       `}>
         <h4><Link to={`/blog/`}>&lt;Back to blog</Link></h4>
-        <h1>{post.frontmatter.author} - {post.frontmatter.title}</h1>
+        <h1>{post.frontmatter.title}</h1>
+        <h2>Author: {post.frontmatter.author}</h2>
         <h2 className={css`
               color: #bbb;
         `}>{post.frontmatter.date}</h2>

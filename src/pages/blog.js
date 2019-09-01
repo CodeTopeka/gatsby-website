@@ -38,13 +38,13 @@ export default ({ data }) => (
             `}
         >
 
-            {node.frontmatter.author}{" - "}{node.frontmatter.title}{" "}
+            {node.frontmatter.title}{" "}
             <span
             className={css`
                 color: #bbb;
             `}
             >
-            — {node.frontmatter.date}
+            — {node.frontmatter.author} — {node.frontmatter.date}
             </span>
         </h3>
         <p>{node.excerpt}</p>
