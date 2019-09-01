@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 import slacksvg from "../img/slack.svg"
 import githubsvg from "../img/github.svg"
 import fbsvg from "../img/fb.svg"
-import observatory from "../img/observ.jpg"
+import observatory from "../img/observ.png"
 
 
 export default ({ data }) => {
