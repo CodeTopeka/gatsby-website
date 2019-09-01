@@ -38,7 +38,7 @@ export default ({ data }) => (
             `}
         >
 
-            {node.frontmatter.title}{" "}
+            {node.frontmatter.author}{" - "}{node.frontmatter.title}{" "}
             <span
             className={css`
                 color: #bbb;
@@ -67,7 +67,7 @@ export const query = graphql`
           frontmatter {
             title
             date(formatString: "DD MMMM, YYYY")
-
+            author
           }
           fields {
             slug
