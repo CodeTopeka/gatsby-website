@@ -1,6 +1,6 @@
 ---
 date: "2019-09-07"
-title: "An Intro to Open Ed"
+title: "An Intro to Open Education"
 ghissue: 2
 author: "Ryan Holm"
 ---
