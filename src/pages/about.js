@@ -2,12 +2,16 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import { css } from "emotion"
+import Helmet from "react-helmet"
 
 import hotelkansas from "../img/kanhot.jpg"
 
 
 export default ({ data }) => (
   <Layout>
+    <Helmet>
+      <title>About Code Topeka</title>
+    </Helmet>
     <div className="bigimages">
       <img className="bigimages-pic" src={hotelkansas} width="100%" alt="Lobby, Hotel Kansan, Topeka"/>
     </div>

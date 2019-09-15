@@ -4,12 +4,16 @@ import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import { css } from "emotion"
 import { rhythm } from "../utils/typography"
+import Helmet from "react-helmet"
 
 import gagepark from "../img/gagepk.jpg"
 
 
 export default ({ data }) => (
   <Layout>
+    <Helmet>
+      <title>Blog</title>
+    </Helmet>
     <div className="bigimages">
       <img className="bigimages-pic" src={gagepark} width="100%" alt="Reinisch Memorial Rose Garden, Gage Park, Topeka"/>
     </div>

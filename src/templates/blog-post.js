@@ -2,6 +2,7 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import { css } from "emotion"
+import Helmet from "react-helmet"
 
 
 
@@ -14,6 +15,9 @@ export default ({ data, pageContext }) => {
   let page = 1
   return (
     <Layout>
+      <Helmet>
+        <title>{post.frontmatter.title}</title>
+      </Helmet>
       <div className={css`
         margin: 0 auto;
         max-width: 800px;
