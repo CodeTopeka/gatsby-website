@@ -82,10 +82,10 @@ export default ({ children }) => (
       <div
         className={siteWideCSS}
       >
-        <Helmet defaultTitle={`Code Topeka: Topeka, KS Developer Social Club`} titleTemplate={`%s | Code Topeka`}>
+        <Helmet defaultTitle={`Code Topeka: Topeka, KS Developers/Programmers/Computer Scientist Club`} titleTemplate={`%s | Code Topeka`}>
           <meta name="og:type" content="website" />
           <meta name="og:site_name" content="Code Topeka" />
-          <meta name="description" content="Code Topeka: A Social Club for Topeka, KS Area Developers and Programmers" />
+          <meta name="description" content="Code Topeka: A Social Club for Topeka, KS Area Developers, Programmers, and Computer Scientists" />
           <html lang="en" />
           <link rel="icon"
             type="image/png"
@@ -217,8 +217,8 @@ export default ({ children }) => (
               `, navItem)}
               >
                 <svg id="meetup-svg" alt="Meetup Group" className={svgNav} viewBox="0 0 512 512" >
-                <rect fill="#ed1c40" height="512" rx="15%" width="512" />
-                <path d="m442 114c79 13 30 113 11 152-12 26-72 129-20 145 16 4 36 2 49 13 23 20 2 37-18 42-23 6-51 0-72-10-69-30-53-106-23-157 13-28 38-59 44-82 4-20-16-38-34-17-11 13-20 32-27 47-8 16-48 103-48 103-7 14-20 34-33 45-22 17-57 6-51-23 8-47 81-157 31-164-18-2-24 18-30 31-10 22-16 45-27 67-12 25-22 51-28 78-5 22-12 50-36 56-68 18-89-26-89-26-11-35-1-67 10-101 8-26 13-53 24-78 18-45 37-137 105-131 17 2 36 11 51 19 40 26 54-20 80-25 21-5 33 4 46 14 21 18 27 7 40 5 12-3 29-6 45-3z" fill="#fff" />
+                <rect height="512" rx="15%" width="512" />
+                <path d="m442 114c79 13 30 113 11 152-12 26-72 129-20 145 16 4 36 2 49 13 23 20 2 37-18 42-23 6-51 0-72-10-69-30-53-106-23-157 13-28 38-59 44-82 4-20-16-38-34-17-11 13-20 32-27 47-8 16-48 103-48 103-7 14-20 34-33 45-22 17-57 6-51-23 8-47 81-157 31-164-18-2-24 18-30 31-10 22-16 45-27 67-12 25-22 51-28 78-5 22-12 50-36 56-68 18-89-26-89-26-11-35-1-67 10-101 8-26 13-53 24-78 18-45 37-137 105-131 17 2 36 11 51 19 40 26 54-20 80-25 21-5 33 4 46 14 21 18 27 7 40 5 12-3 29-6 45-3z" />
                 </svg>  
             </a>
             <a

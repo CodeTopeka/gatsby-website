@@ -57,10 +57,17 @@ export default ({ data }) => {
               </a>
             </p>
             <p>
+              <a href={`https://www.meetup.com/Code-Topeka`} className={css`
+                    text-decoration: none;            
+                  `}>
+                <img className="frontpage-logos" src={meetupsvg} />Join Our Meetup Group
+              </a>
+            </p>
+            <p>
               <a href={`https://github.com/codetopeka`} className={css`
                     text-decoration: none;            
                   `}>
-                <img className="frontpage-logos" src={githubsvg} />Participate in our Github Repos
+                <img className="frontpage-logos" src={githubsvg} />Participate in Our Github Repos
               </a>
             </p>
           </div>
@@ -107,6 +114,7 @@ export default ({ data }) => {
               ))}
             </p>
           </div>
+          <hr/>
           <div className={css`text-align: center;`}>
             <h2>Sponsors</h2>
             <p>
