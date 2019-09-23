@@ -107,6 +107,12 @@ export default ({ data }) => {
               ))}
             </p>
           </div>
+          <div className={css`text-align: center;`}>
+            <h2>Sponsors</h2>
+            <p>
+            • <a href="http://www.wds-it.com/">WDS IT</a> • 
+            </p>
+          </div>
         </div>
 
       </div>

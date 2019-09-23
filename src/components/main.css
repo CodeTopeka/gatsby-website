@@ -20,7 +20,7 @@ a {
     font-family: 'Philosopher', sans-serif;
 }
 
-#slack-svg, #fb-svg, #github-svg  {
+#slack-svg, #fb-svg, #github-svg, #meetup-svg  {
     transition: 200ms;
     transition-timing-function: ease-in-out;
     fill: #12c92e !important;
@@ -28,7 +28,7 @@ a {
     height: 35px;
 }
 
-#slack-svg:hover, #fb-svg:hover, #github-svg:hover {
+#slack-svg:hover, #fb-svg:hover, #github-svg:hover, #meetup-svg:hover {
     fill: #667c7c !important;
 }
 
