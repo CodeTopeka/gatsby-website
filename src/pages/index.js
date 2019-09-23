@@ -7,6 +7,7 @@ import { rhythm } from "../utils/typography"
 import slacksvg from "../img/slack.svg"
 import githubsvg from "../img/github.svg"
 import fbsvg from "../img/fb.svg"
+import meetupsvg from "../img/meetup.svg"
 import observatory from "../img/observ.jpg"
 
 
