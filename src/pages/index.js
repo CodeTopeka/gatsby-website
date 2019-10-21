@@ -75,7 +75,7 @@ export default ({ data }) => {
           <hr />
           <div className={css`text-align: center;`}>
             <h2>Code Topeka Group Events:</h2>
-            <p>Our next gathering is: TBD</p>
+            <p>Our next gathering is: October 21st @ 5pm <a href={'https://ajsnypizza.com/location/topeka/'}>AJ's Pizza in Topeka</a> <br/> <a href={'https://www.facebook.com/events/968732396802820/'}>TOPIC:  Angular vs React</a></p>
             <p>Use our <a href={`https://code-topeka.slack.com`}>Slack's #events channel</a> to get real time updates on future events!</p>
           </div>
           <hr />
