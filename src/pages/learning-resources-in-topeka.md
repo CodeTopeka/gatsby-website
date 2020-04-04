@@ -21,7 +21,7 @@ Treehouse is basically a free college education. I firmly believe that if you we
 
 Here is a sample curriculum of "Tracks" for you to complete on Treehouse:
 
-Treehouse Track
+Treehouse Track |
 ----------|
 Digital Literacy |
 Start Your Coding Journey |
