@@ -21,28 +21,30 @@ Treehouse is basically a free college education. I firmly believe that if you we
 
 Here is a sample curriculum of "Tracks" for you to complete on Treehouse:
 
-### Digital Literacy
-### Start Your Coding Journey
-### Learn HTML
-### Design and Build a Website
-### Beginning JavaScript
-### Front End Development
-### Full Stack JavaScript
-### Learn React
-### Beginning SQL
-### Beginning Python
-### Intermediate Python
-### Exploring Flask
-### Exploring Django
-### Beginning Java
-### Intermediate Java
-### Java Web Development
-### Beginning C#
-### Beginning ASP.NET
-### Intermediate C#
-### Web Design
-### Algorithms and Data Structures
-### Beginning Security
+Treehouse Track
+----------|
+Digital Literacy |
+Start Your Coding Journey |
+Learn HTML |
+Design and Build a Website |
+Beginning JavaScript |
+Front End Development |
+Full Stack JavaScript |
+Learn React |
+Beginning SQL |
+Beginning Python |
+Intermediate Python |
+Exploring Flask |
+Exploring Django |
+Beginning Java |
+Intermediate Java |
+Java Web Development |
+Beginning C# |
+Beginning ASP.NET |
+Intermediate C# |
+Web Design |
+Algorithms and Data Structures |
+Beginning Security |
 
 This is like two year's worth of learning, and a viable replacement for CS classes at a college. If you 100% complete Treehouse, you can be sure of finding a junior dev job somewhere in America. At no cost to you!
 
