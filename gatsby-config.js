@@ -4,6 +4,7 @@ module.exports = {
     siteUrl: `https://www.codetopeka.org`
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
     {
         resolve: `gatsby-source-filesystem`,
         options: {
