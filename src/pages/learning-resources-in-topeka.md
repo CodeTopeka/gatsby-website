@@ -1,7 +1,7 @@
 ---
 date: "2020-04-03"
 title: "Online Computer Science Learning Resources in Topeka, KS for COVID-19 and Beyond"
-ghissue: 3
+ghissue: 6
 author: "Ryan Holm"
 ---
 
