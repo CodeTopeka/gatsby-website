@@ -10,7 +10,7 @@ author: "Ryan Holm"
 
 Hello Code Topeka blog reader.
 
-I would like to compile some resources for learning how to program that are available in the Topeka area to anyone who came across our group and is interested in learning how to program. We actually have a lot of unique opportunity educational-resource-wise in Topeka. Since COVID-19 is keeping us all home for the next few months, all of my resources will be free and online. Hopefully the resources will be useful for anyone of any age.
+I would like to compile some resources for learning how to program that are available in the Topeka area to anyone who came across our group and is interested in programming. We actually have a lot of unique opportunity educational-resource-wise in Topeka. Since COVID-19 is keeping us all home for the next few months (I hope not longer, but who knows), all of my resources will be free and online. Hopefully the information will be useful for anyone of any age, at whatever stage of learning to program.
 
 
 # Treehouse
@@ -46,7 +46,7 @@ Web Design |
 Algorithms and Data Structures |
 Beginning Security |
 
-This is like two year's worth of learning, and a viable replacement for CS classes at a college. If you 100% complete Treehouse, you can be sure of finding a junior dev job somewhere in America. At no cost to you!
+This is like two year's worth of learning working 10 hours a day, and a viable replacement for CS classes at a college (though you should still read free CS OER textbooks). If you 100% complete Treehouse, you can be sure of finding a junior dev job somewhere in America. At no cost to you!
 
 # Lynda
 
