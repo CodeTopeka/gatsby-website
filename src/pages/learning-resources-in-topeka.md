@@ -5,9 +5,8 @@ ghissue: 3
 author: "Ryan Holm"
 ---
 
-# Online Computer Science Learning Resources in Topeka, KS for COVID-19
 
-### Learn to Program in Topeka, KS
+### Learn to Program (Online) (For Free) in Topeka, KS
 
 Hello Code Topeka blog reader.
 
