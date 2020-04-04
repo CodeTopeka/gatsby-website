@@ -239,7 +239,7 @@ export default ({ children }) => (
           max-width: 800px;
           margin: auto;
         `}>
-    <a href={`https://www.negativland.com/news/wp-content/uploads/text/negativland-two_relationships_essay.pdf`}><img src={public_domain_small} alt="Public Domain" className={css`;margin-left: 20px; width:120px;margin-right: 30px;`} /></a>
+    <a href={`https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1280&context=lcp`}><img src={public_domain_small} alt="Public Domain" className={css`;margin-left: 20px; width:120px;margin-right: 30px;`} /></a>
 
     <Link to={'/'} className={css`text-decoration: none;`}>
       <span className={css`
