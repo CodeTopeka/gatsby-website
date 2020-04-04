@@ -259,8 +259,7 @@ Here's a curriculum I made specifically for K-12 students. It's a gentle introdu
 
 ### Conclusion
 
-I could probably go on, but I hope this provides enough for the stay at home order. I hope this lasts just a few months, not requiring years of academic resources! This should keep you busy if you're trying to learn programming. Topeka is nice in that it provides Lynda and Treehouse. Those alone should provide years of education, even before using any OER textbooks. 
-
+I could probably go on, but I hope this provides more than enough for the stay at home order in Kansas. Afterall, the shorter the better. But this should also keep you busy if you're trying to learn programming at any other time. Topeka is nice in that it provides Lynda and Treehouse, both online schools that don't require you to visit a physical location with crowds. Mix their curriculum with some hefty CS OER textbooks and you'll start your journey to learning programming online. The bonus is that these curricula are totally free for Topekans!
 
 
 
