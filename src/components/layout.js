@@ -260,7 +260,7 @@ export default ({ children }) => (
 
 
               `}>
-        CodeTopeka.org:2019
+        CodeTopeka.org:2020
             </span>
     </Link>
 
