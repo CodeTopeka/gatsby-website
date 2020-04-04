@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Code Topeka`,
+    siteUrl: `https://www.codetopeka.org`
   },
   plugins: [
     {
