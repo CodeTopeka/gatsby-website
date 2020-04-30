@@ -82,10 +82,10 @@ export default ({ children }) => (
       <div
         className={siteWideCSS}
       >
-        <Helmet defaultTitle={`Code Topeka: Topeka, KS Developers/Programmers/Computer Scientist Club`} titleTemplate={`%s | Code Topeka`}>
+        <Helmet defaultTitle={`Code Topeka: Developers, Programmers, & Computer Scientists Meetup`} titleTemplate={`%s | Code Topeka`}>
           <meta name="og:type" content="website" />
           <meta name="og:site_name" content="Code Topeka" />
-          <meta name="description" content="Code Topeka: A Social Club for Topeka, KS Area Developers, Programmers, and Computer Scientists" />
+          <meta name="description" content="A Social Club/Meetup for Topeka, KS Area Developers, Programmers, and Computer Scientists" />
           <html lang="en" />
           <link rel="icon"
             type="image/png"
