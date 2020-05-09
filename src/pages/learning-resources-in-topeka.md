@@ -5,10 +5,9 @@ ghissue: 6
 author: "Ryan Holm"
 ---
 
-
 ### Learn to Program (Online) (For Free) in Topeka, KS
 
-Hello Code Topeka blog reader.
+Hello Topekan blog reader.
 
 I would like to compile some resources for learning how to program that are available in the Topeka area to anyone who came across our group and is interested in programming. We actually have a lot of unique opportunity educational-resource-wise in Topeka. Since COVID-19 is keeping us all home for the next few months (I hope not longer, but who knows), all of my resources will be free and online. Hopefully the information will be useful for anyone of any age, at whatever stage of learning to program.
 
@@ -210,13 +209,13 @@ Coding Train is a graphic arts computer science curriculum for beginning program
 
 # [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) 
 
-[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) is a crowd-sourced compilation of OER (open educational resources) on Github. Whenever someone publishes a computer science textbook with an open source license, someone usually posts it to this repo. Accordingly, the [README](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) is a long list of free computer science textbooks. While a physical library is better, since TSCPL's stacks are closed due to COVID-19 this is the next best thing. You can search by topic and read until your heart's content. The only thing is that this collection is not broken into "tracks" up through beginner to advanced, so you have to make your own curriculum based on it. If you would like someone to do the hard work of creating a free and open source curriculum based on this resources, you're in luck because [I have done just that on my website "Holm School"](https://lepvcxvx.github.io/holm-school/#index)
+[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) is a crowd-sourced compilation of OER (open educational resources) on Github. Whenever someone publishes a computer science textbook with an open source license, someone usually posts it to this repo. Accordingly, the [README](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) is a long list of free computer science textbooks. While a physical library is better, since TSCPL's stacks are closed due to COVID-19 this is the next best thing. You can search by topic and read until your heart's content. The only thing is that this collection is not broken into "tracks" up through beginner to advanced, so you have to make your own curriculum based on it. If you would like someone to do the hard work of creating a free and open source curriculum based on this resources, you're in luck because [I have done just that on my website "Holm School"](https://www.holm.school/#index)
 
 # [FreeCodeCamp](https://www.freecodecamp.org)
 
 FreeCodeCamp is unique in that it is a nonprofit educational resource for learning programming. They focus on their tutorial website and YouTube channel. They are doing god's work, so be sure to visit them and try and 100% their curriculum before moving on to paid resources. Their focus is on Front End and Web Development.
 
-# https://lepvcxvx.github.io/holm-school/computer-science/
+# https://www.holm.school/computer-science/
 
 A collection of free computer science curricula and tracks from various sites on the web. Create a curriculum from this compilation of curriculum. Teach yourself to teach yourself.
 
@@ -247,7 +246,7 @@ Related to the last post, once you have a Raspberry Pi you can start learning li
 
 University of the People is a $1000 a year online bachelors of science in computer science degree. What's nice is that most job's tuition reimbursement 100% covers that fee. UoPeople uses text-based OER for their curricula. Since it's open source education resources, that means anyone can study the UoPeople curriculum. The textbooks are free, in other words. And each course lists its textbook (with a link to download) in the syllabus. Why not just start at the lowest number CS course and read your way through the entire UoPeople curriculum? These are college level courses, so expect to read college level texts and do college level homework. We're approaching the age where college level work is free online, and UoPeople even grants a degree for your online study.
 
-# [lepvcxvx/holm-school](https://lepvcxvx.github.io/holm-school/#index)
+# [lepvcxvx/holm-school](https://www.holm.school/#index)
 
 It me. ¯\\\_(ツ)\_/¯ I've been working on this project for 1.5 years now.  I archive good, free, open source computer science books and classes on Github, and I have made my own curriculum to teach programming. I sincerely believe that it's a waste of money to pay to learn computer science. Modern computer science is built on the back of the open source movement, and there is plenty of open source educational resources to fuel four years of study to earn the skills necessary for a junior dev job. College is just outrageously expensive, even though it's not necessarily a bad thing to do, but debt is devastating when you're young and so I think it's very sensible to just study CS using open source educational resources. CS is unique because you can learn everything on a computer, since everything takes place on a computer anyway. Is it okay to spend some money on learning CS? Of course, I do and did myself. But I would not go into debt to learn something as free (as in beer and language) as programming, all of which takes a Raspberry Pi and an internet connection. Anyone who says you need to spend money to learn enough about programming to get a first job is selling snake oil. That might not necessarily have been the case ten years ago , but it certainly is now that open source has matured and taken over the CS education movement.
 
@@ -255,16 +254,10 @@ It me. ¯\\\_(ツ)\_/¯ I've been working on this project for 1.5 years now.  I 
 
 Another tough curriculum for learning programming.
 
-# [holm-school/K-12](https://lepvcxvx.github.io/holm-school/k-12/)
+# [holm-school/K-12](https://www.holm.school/k-12/)
 
 Here's a curriculum I made specifically for K-12 students. It's a gentle introduction to programming, but can be used for anyone interested in learning programming without diving in college-level courses.
 
 ### Conclusion
 
 I could probably go on, but I hope this provides more than enough for the stay at home order in Kansas. Afterall, the shorter the better. But this should also keep you busy if you're trying to learn programming at any other time. Topeka is nice in that it provides Lynda and Treehouse, both online schools that don't require you to visit a physical location with crowds. Mix their curriculum with some hefty CS OER textbooks and you'll start your journey to learning programming online. The bonus is that these curricula are totally free for Topekans!
-
-
-
-
-
-
