@@ -215,10 +215,6 @@ Coding Train is a graphic arts computer science curriculum for beginning program
 
 FreeCodeCamp is unique in that it is a nonprofit educational resource for learning programming. They focus on their tutorial website and YouTube channel. They are doing god's work, so be sure to visit them and try and 100% their curriculum before moving on to paid resources. Their focus is on Front End and Web Development.
 
-# https://www.holm.school/computer-science/
-
-A collection of free computer science curricula and tracks from various sites on the web. Create a curriculum from this compilation of curriculum. Teach yourself to teach yourself.
-
 # https://functionalcs.github.io/curriculum/
 
 This resource is for people who want to get a college-equvialent education in computer science, focused on functional programming. You're going to learn a lot going through this curriculum, and expect to work hard.
@@ -246,7 +242,7 @@ Related to the last post, once you have a Raspberry Pi you can start learning li
 
 University of the People is a $1000 a year online bachelors of science in computer science degree. What's nice is that most job's tuition reimbursement 100% covers that fee. UoPeople uses text-based OER for their curricula. Since it's open source education resources, that means anyone can study the UoPeople curriculum. The textbooks are free, in other words. And each course lists its textbook (with a link to download) in the syllabus. Why not just start at the lowest number CS course and read your way through the entire UoPeople curriculum? These are college level courses, so expect to read college level texts and do college level homework. We're approaching the age where college level work is free online, and UoPeople even grants a degree for your online study.
 
-# [lepvcxvx/holm-school](https://www.holm.school/#index)
+# [holm-school](https://www.holm.school/#index)
 
 It me. ¯\\\_(ツ)\_/¯ I've been working on this project for 1.5 years now.  I archive good, free, open source computer science books and classes on Github, and I have made my own curriculum to teach programming. I sincerely believe that it's a waste of money to pay to learn computer science. Modern computer science is built on the back of the open source movement, and there is plenty of open source educational resources to fuel four years of study to earn the skills necessary for a junior dev job. College is just outrageously expensive, even though it's not necessarily a bad thing to do, but debt is devastating when you're young and so I think it's very sensible to just study CS using open source educational resources. CS is unique because you can learn everything on a computer, since everything takes place on a computer anyway. Is it okay to spend some money on learning CS? Of course, I do and did myself. But I would not go into debt to learn something as free (as in beer and language) as programming, all of which takes a Raspberry Pi and an internet connection. Anyone who says you need to spend money to learn enough about programming to get a first job is selling snake oil. That might not necessarily have been the case ten years ago , but it certainly is now that open source has matured and taken over the CS education movement.
 
