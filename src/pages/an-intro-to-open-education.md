@@ -2,7 +2,7 @@
 date: "2019-09-07"
 title: "An Intro to Open Education"
 ghissue: 2
-author: "Ryan Holm"
+author: "lepvcxvx"
 ---
 
 Open Education is a bit of a Frankenstein creation of computer science that is affecting the education system. It derived from computer science because it is the application of open source licensing to educational resources. It is having interesting results (sometimes frustrating slow results, however), and as I have worked the past two years on EdTech teaching computer science to K-12 students and now have a side hustle github project that focuses on CS OpenEd, I'd like to take this Code Topeka blogpost as an opportunity to discuss a 101-level introduction to Open Ed to anyone who doesn't know how open source licensing is affecting education today.

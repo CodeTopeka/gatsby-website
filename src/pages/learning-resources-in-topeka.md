@@ -2,7 +2,7 @@
 date: "2020-04-03"
 title: "Online Computer Science Learning Resources in Topeka, KS for COVID-19 and Beyond"
 ghissue: 6
-author: "Ryan Holm"
+author: "lepvcxvx"
 ---
 
 ### Learn to Program (Online) (For Free) in Topeka, KS
